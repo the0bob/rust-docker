@@ -1,0 +1,129 @@
+This file is provided for informational purposes only. Changes aren't reflected in game.
+
+ItemModWearable
+{
+    "entityPrefab": {
+        "guid": "d84428d1886be124baca7086c912ca7b"
+    },
+    "protectionProperties": {
+        "instanceID": 76898
+    },
+    "armorProperties": {
+        "instanceID": 163346
+    },
+    "movementProperties": {
+        "instanceID": 0
+    },
+    "occlusionType": 64,
+    "blocksAiming": false,
+    "emissive": false,
+    "viewmodelAddition": {
+        "guid": "9c514d9613d05b144b65f3877ea10a54"
+    }
+}
+
+ItemBlueprint
+{
+    "ingredients": [
+        {
+            "itemDef": {
+                "instanceID": 1338454
+            },
+            "amount": 5.0
+        },
+        {
+            "itemDef": {
+                "instanceID": 1338048
+            },
+            "amount": 2.0
+        },
+        {
+            "itemDef": {
+                "instanceID": 1333550
+            },
+            "amount": 8.0
+        }
+    ],
+    "defaultBlueprint": false,
+    "userCraftable": true,
+    "isResearchable": true,
+    "rarity": 0,
+    "workbenchLevelRequired": 2,
+    "scrapRequired": 0,
+    "scrapFromRecycle": 0,
+    "NeedsSteamItem": false,
+    "blueprintStackSize": -1,
+    "time": 20.0,
+    "amountToCreate": 1,
+    "UnlockAchievment": ""
+}
+
+ItemDefinition
+{
+    "itemid": 1266491000,
+    "shortname": "hazmatsuit",
+    "displayName": {
+        "token": "hazmatsuit",
+        "english": "Hazmat Suit"
+    },
+    "displayDescription": {
+        "token": "hazmatsuit.desc",
+        "english": "A hazmat suit made from radiation resistant rubber."
+    },
+    "iconSprite": {
+        "instanceID": 46108
+    },
+    "category": 4,
+    "selectionPanel": 0,
+    "maxDraggable": 0,
+    "itemType": 1,
+    "amountType": 0,
+    "occupySlots": 1,
+    "stackable": 1,
+    "quickDespawn": false,
+    "rarity": 3,
+    "spawnAsBlueprint": false,
+    "inventorySelectSound": {
+        "instanceID": 179972
+    },
+    "inventoryGrabSound": {
+        "instanceID": 179972
+    },
+    "inventoryDropSound": {
+        "instanceID": 26580
+    },
+    "physImpactSoundDef": {
+        "instanceID": 29164
+    },
+    "condition": {
+        "enabled": false,
+        "max": 0.0,
+        "repairable": false,
+        "maintainMaxCondition": false,
+        "foundCondition": {
+            "fractionMin": 1.0,
+            "fractionMax": 1.0
+        }
+    },
+    "hidden": false,
+    "flags": 0,
+    "steamItem": {
+        "instanceID": 0
+    },
+    "Parent": {
+        "instanceID": 0
+    },
+    "worldModelPrefab": {
+        "guid": ""
+    },
+    "Traits": 8,
+    "panel": {
+        "instanceID": 0
+    }
+}
+
+ItemFootstepSounds
+{
+    "effectFolder": "rubberboots"
+}
+

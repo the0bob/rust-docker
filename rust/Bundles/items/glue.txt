@@ -1,0 +1,66 @@
+This file is provided for informational purposes only. Changes aren't reflected in game.
+
+ItemDefinition
+{
+    "itemid": -1899491405,
+    "shortname": "glue",
+    "displayName": {
+        "token": "glue.name",
+        "english": "Glue"
+    },
+    "displayDescription": {
+        "token": "glue.desc",
+        "english": "A strong adhesive."
+    },
+    "iconSprite": {
+        "instanceID": 180262
+    },
+    "category": 13,
+    "selectionPanel": 0,
+    "maxDraggable": 0,
+    "itemType": 1,
+    "amountType": 0,
+    "occupySlots": 0,
+    "stackable": 10,
+    "quickDespawn": false,
+    "rarity": 2,
+    "spawnAsBlueprint": false,
+    "inventorySelectSound": {
+        "instanceID": 165714
+    },
+    "inventoryGrabSound": {
+        "instanceID": 165714
+    },
+    "inventoryDropSound": {
+        "instanceID": 100096
+    },
+    "physImpactSoundDef": {
+        "instanceID": 29164
+    },
+    "condition": {
+        "enabled": false,
+        "max": 0.0,
+        "repairable": false,
+        "maintainMaxCondition": false,
+        "foundCondition": {
+            "fractionMin": 1.0,
+            "fractionMax": 1.0
+        }
+    },
+    "hidden": false,
+    "flags": 0,
+    "steamItem": {
+        "instanceID": 0
+    },
+    "Parent": {
+        "instanceID": 0
+    },
+    "worldModelPrefab": {
+        "guid": ""
+    },
+    "Traits": 8,
+    "panel": {
+        "instanceID": 0
+    }
+}
+

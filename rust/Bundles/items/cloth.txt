@@ -1,0 +1,72 @@
+This file is provided for informational purposes only. Changes aren't reflected in game.
+
+ItemDefinition
+{
+    "itemid": -858312878,
+    "shortname": "cloth",
+    "displayName": {
+        "token": "cloth",
+        "english": "Cloth"
+    },
+    "displayDescription": {
+        "token": "cloth.desc",
+        "english": "Cloth from an animal or a Hemp Bush. Used in many clothing items, weapons, and more."
+    },
+    "iconSprite": {
+        "instanceID": 83000
+    },
+    "category": 3,
+    "selectionPanel": 0,
+    "maxDraggable": 0,
+    "itemType": 1,
+    "amountType": 0,
+    "occupySlots": 0,
+    "stackable": 1000,
+    "quickDespawn": false,
+    "rarity": 2,
+    "spawnAsBlueprint": false,
+    "inventorySelectSound": {
+        "instanceID": 64896
+    },
+    "inventoryGrabSound": {
+        "instanceID": 64896
+    },
+    "inventoryDropSound": {
+        "instanceID": 41786
+    },
+    "physImpactSoundDef": {
+        "instanceID": 29164
+    },
+    "condition": {
+        "enabled": false,
+        "max": 0.0,
+        "repairable": false,
+        "maintainMaxCondition": false,
+        "foundCondition": {
+            "fractionMin": 1.0,
+            "fractionMax": 1.0
+        }
+    },
+    "hidden": false,
+    "flags": 0,
+    "steamItem": {
+        "instanceID": 0
+    },
+    "Parent": {
+        "instanceID": 0
+    },
+    "worldModelPrefab": {
+        "guid": "18788e5d677ecd74890a0a03e1f4db34"
+    },
+    "Traits": 8,
+    "panel": {
+        "instanceID": 0
+    }
+}
+
+ItemModXPWhenUsed
+{
+    "xpPerUnit": 1.0,
+    "unitSize": 300
+}
+

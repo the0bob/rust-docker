@@ -1,0 +1,112 @@
+This file is provided for informational purposes only. Changes aren't reflected in game.
+
+ItemDefinition
+{
+    "itemid": 1608640313,
+    "shortname": "shirt.tanktop",
+    "displayName": {
+        "token": "shirt.tanktop",
+        "english": "Tank Top"
+    },
+    "displayDescription": {
+        "token": "shirt.tanktop.desc",
+        "english": "A tshirt without sleeves"
+    },
+    "iconSprite": {
+        "instanceID": 125136
+    },
+    "category": 4,
+    "selectionPanel": 0,
+    "maxDraggable": 0,
+    "itemType": 1,
+    "amountType": 0,
+    "occupySlots": 0,
+    "stackable": 1,
+    "quickDespawn": false,
+    "rarity": 1,
+    "spawnAsBlueprint": false,
+    "inventorySelectSound": {
+        "instanceID": 165714
+    },
+    "inventoryGrabSound": {
+        "instanceID": 165714
+    },
+    "inventoryDropSound": {
+        "instanceID": 100096
+    },
+    "physImpactSoundDef": {
+        "instanceID": 29164
+    },
+    "condition": {
+        "enabled": false,
+        "max": 0.0,
+        "repairable": false,
+        "maintainMaxCondition": false,
+        "foundCondition": {
+            "fractionMin": 1.0,
+            "fractionMax": 1.0
+        }
+    },
+    "hidden": false,
+    "flags": 0,
+    "steamItem": {
+        "instanceID": 0
+    },
+    "Parent": {
+        "instanceID": 0
+    },
+    "worldModelPrefab": {
+        "guid": "0feaf5c580478834d8284962c411b87f"
+    },
+    "Traits": 8,
+    "panel": {
+        "instanceID": 0
+    }
+}
+
+ItemModWearable
+{
+    "entityPrefab": {
+        "guid": "fef1dbc0cbf14994db90a532870fab31"
+    },
+    "protectionProperties": {
+        "instanceID": 86822
+    },
+    "armorProperties": {
+        "instanceID": 70176
+    },
+    "movementProperties": {
+        "instanceID": 0
+    },
+    "occlusionType": 64,
+    "blocksAiming": false,
+    "emissive": false,
+    "viewmodelAddition": {
+        "guid": ""
+    }
+}
+
+ItemBlueprint
+{
+    "ingredients": [
+        {
+            "itemDef": {
+                "instanceID": 1338136
+            },
+            "amount": 30.0
+        }
+    ],
+    "defaultBlueprint": false,
+    "userCraftable": true,
+    "isResearchable": true,
+    "rarity": 2,
+    "workbenchLevelRequired": 1,
+    "scrapRequired": 0,
+    "scrapFromRecycle": 0,
+    "NeedsSteamItem": false,
+    "blueprintStackSize": -1,
+    "time": 30.0,
+    "amountToCreate": 1,
+    "UnlockAchievment": ""
+}
+
