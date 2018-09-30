@@ -4,7 +4,9 @@ Everything is in this repo EXCEPT two large files which the server will retrieve
 
 Have fun!
 
+Don't want to run docker-compose? There's a guide on doing it the hard way here:
 https://rust.didscraft.com/rust-server-on-linux-using-docker/
+
 
 Available Environment Variables 
 RUST_SERVER_STARTUP_ARGUMENTS (DEFAULT: "-batchmode -load +server.secure 1")
