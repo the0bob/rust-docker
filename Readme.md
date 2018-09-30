@@ -1,5 +1,8 @@
+Make sure you have docker-compose installed and run 'docker-compose up' to start the server. Run 'docker-compose up -d' to run the server in the background, and 'docker-compose up --build' to rebuild the server if needed.
 
+Everything is in this repo EXCEPT two large files which the server will retrieve automatically when booted.
 
+Have fun!
 
 https://rust.didscraft.com/rust-server-on-linux-using-docker/
 
