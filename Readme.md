@@ -2,9 +2,15 @@ Make sure you have docker-compose installed and run 'docker-compose up' to start
 
 Everything is in this repo EXCEPT two large files which the server will retrieve automatically when booted.
 
+Will launch the RCON admin on port 8080 once booted, just visit 'localhost:8080' in your browser.
+
+Make sure your router has ports 28015 (tcp) and 28016 (tcp/udp) open.
+
 Have fun!
 
+Don't want to run docker-compose? There's a guide on doing it the hard way here:
 https://rust.didscraft.com/rust-server-on-linux-using-docker/
+
 
 Available Environment Variables 
 RUST_SERVER_STARTUP_ARGUMENTS (DEFAULT: "-batchmode -load +server.secure 1")
