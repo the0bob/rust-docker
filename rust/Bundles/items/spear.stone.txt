@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A stone-tipped wooden Spear. Slightly longer range."
     },
     "iconSprite": {
-        "instanceID": 90758
+        "instanceID": 93070
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryGrabSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryDropSound": {
-        "instanceID": 126924
+        "instanceID": 129996
     },
     "physImpactSoundDef": {
-        "instanceID": 105004
+        "instanceID": 107626
     },
     "condition": {
         "enabled": true,
@@ -77,19 +77,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1798132
+                "instanceID": 1802508
             },
             "amount": 1.0
         },
         {
             "itemDef": {
-                "instanceID": 206990
+                "instanceID": 213110
             },
             "amount": 100.0
         },
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 5.0
         }

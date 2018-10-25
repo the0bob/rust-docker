@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Festive decoration to spruce up your windows during the holdiays!"
     },
     "iconSprite": {
-        "instanceID": 148684
+        "instanceID": 153362
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 84424
+        "instanceID": 86656
     },
     "inventoryGrabSound": {
-        "instanceID": 84424
+        "instanceID": 86656
     },
     "inventoryDropSound": {
-        "instanceID": 35652
+        "instanceID": 36542
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -50,7 +50,7 @@ ItemDefinition
     "hidden": false,
     "flags": 0,
     "steamItem": {
-        "instanceID": 42908
+        "instanceID": 43956
     },
     "Parent": {
         "instanceID": 0
@@ -78,7 +78,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 25.0
         }

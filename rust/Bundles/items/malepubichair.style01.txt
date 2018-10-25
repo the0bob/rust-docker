@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Male Pubic Hair 01"
     },
     "iconSprite": {
-        "instanceID": 47442
+        "instanceID": 48594
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryGrabSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryDropSound": {
-        "instanceID": 41786
+        "instanceID": 42826
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -73,7 +73,7 @@ ItemModWearable
         "instanceID": 0
     },
     "armorProperties": {
-        "instanceID": 108386
+        "instanceID": 111092
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,7 +93,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 15.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Light up the night sky with this brand new red flare!"
     },
     "iconSprite": {
-        "instanceID": 73200
+        "instanceID": 75250
     },
     "category": 5,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryGrabSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryDropSound": {
-        "instanceID": 149210
+        "instanceID": 153888
     },
     "physImpactSoundDef": {
-        "instanceID": 121694
+        "instanceID": 124728
     },
     "condition": {
         "enabled": false,
@@ -77,13 +77,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1338224
+                "instanceID": 1344546
             },
             "amount": 10.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 10.0
         }

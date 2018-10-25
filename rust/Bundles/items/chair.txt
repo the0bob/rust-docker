@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Every home needs a chair. A decorative item which provides comfort when in close proximity."
     },
     "iconSprite": {
-        "instanceID": 39820
+        "instanceID": 40832
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,13 +26,13 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": true,
     "inventorySelectSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryGrabSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryDropSound": {
-        "instanceID": 149210
+        "instanceID": 153888
     },
     "physImpactSoundDef": {
         "instanceID": 0
@@ -78,13 +78,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 50.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 75.0
         }

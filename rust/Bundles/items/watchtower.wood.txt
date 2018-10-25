@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A high wooden watchtower with a ladder"
     },
     "iconSprite": {
-        "instanceID": 137014
+        "instanceID": 141378
     },
     "category": 1,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": true,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,7 +78,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 2500.0
         }

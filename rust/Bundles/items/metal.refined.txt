@@ -13,7 +13,7 @@ ItemDefinition
         "english": "High quality metal suitable for armor and weapons construction."
     },
     "iconSprite": {
-        "instanceID": 125066
+        "instanceID": 128122
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 116658
+        "instanceID": 119536
     },
     "inventoryGrabSound": {
-        "instanceID": 116658
+        "instanceID": 119536
     },
     "inventoryDropSound": {
-        "instanceID": 79520
+        "instanceID": 81658
     },
     "physImpactSoundDef": {
-        "instanceID": 101862
+        "instanceID": 104402
     },
     "condition": {
         "enabled": false,

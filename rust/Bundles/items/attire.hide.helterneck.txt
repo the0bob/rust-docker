@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Halterneck made from the hide of an animal."
     },
     "iconSprite": {
-        "instanceID": 180176
+        "instanceID": 186110
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "becb7ac1ea3f8624f8f09a98544116ba"
     },
     "protectionProperties": {
-        "instanceID": 89498
+        "instanceID": 91788
     },
     "armorProperties": {
-        "instanceID": 70176
+        "instanceID": 72150
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,7 +93,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 20.0
         }

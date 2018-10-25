@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Extracted from animal carcass.  Used as a raw material to make a bone blade, a bone awl, bone meal, or used to make glue."
     },
     "iconSprite": {
-        "instanceID": 61742
+        "instanceID": 63574
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 155640
+        "instanceID": 160644
     },
     "inventoryGrabSound": {
-        "instanceID": 155640
+        "instanceID": 160644
     },
     "inventoryDropSound": {
-        "instanceID": 79942
+        "instanceID": 82090
     },
     "physImpactSoundDef": {
-        "instanceID": 45166
+        "instanceID": 46228
     },
     "condition": {
         "enabled": false,

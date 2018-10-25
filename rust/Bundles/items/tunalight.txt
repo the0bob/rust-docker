@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Makeshift wall light."
     },
     "iconSprite": {
-        "instanceID": 82154
+        "instanceID": 84320
     },
     "category": 2,
     "selectionPanel": 1,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 112192
+        "instanceID": 114982
     },
     "inventoryGrabSound": {
-        "instanceID": 112192
+        "instanceID": 114982
     },
     "inventoryDropSound": {
-        "instanceID": 157366
+        "instanceID": 162396
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -78,19 +78,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1338272
+                "instanceID": 1344588
             },
             "amount": 1.0
         },
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 20.0
         },
         {
             "itemDef": {
-                "instanceID": 1336844
+                "instanceID": 1343144
             },
             "amount": 10.0
         }
@@ -124,7 +124,7 @@ ItemModContainer
     "containerFlags": 0,
     "onlyAllowedContents": 1,
     "onlyAllowedItemType": {
-        "instanceID": 1336844
+        "instanceID": 1343144
     },
     "availableSlots": [],
     "openInDeployed": true,
@@ -132,7 +132,7 @@ ItemModContainer
     "defaultContents": [
         {
             "itemDef": {
-                "instanceID": 1336844
+                "instanceID": 1343144
             },
             "amount": 5.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A sleeping bag. Placing this will give you a location to respawn."
     },
     "iconSprite": {
-        "instanceID": 84084
+        "instanceID": 86314
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryGrabSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryDropSound": {
-        "instanceID": 41786
+        "instanceID": 42826
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -78,7 +78,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 30.0
         }

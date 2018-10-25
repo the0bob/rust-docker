@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Ammunition for a Pistol. Loses velocity when fired over long distances resulting in slightly decreased damage."
     },
     "iconSprite": {
-        "instanceID": 81716
+        "instanceID": 83882
     },
     "category": 8,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 116658
+        "instanceID": 119536
     },
     "inventoryGrabSound": {
-        "instanceID": 116658
+        "instanceID": 119536
     },
     "inventoryDropSound": {
-        "instanceID": 79520
+        "instanceID": 81658
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -91,13 +91,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 10.0
         },
         {
             "itemDef": {
-                "instanceID": 1338224
+                "instanceID": 1344546
             },
             "amount": 5.0
         }

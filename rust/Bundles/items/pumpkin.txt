@@ -13,7 +13,7 @@ ItemDefinition
         "english": "An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst."
     },
     "iconSprite": {
-        "instanceID": 33152
+        "instanceID": 33836
     },
     "category": 7,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -116,7 +118,7 @@ ItemModMenuOption
 {
     "commandName": "consume",
     "actionTarget": {
-        "instanceID": 206748
+        "instanceID": 212868
     },
     "option": {
         "name": {
@@ -128,7 +130,7 @@ ItemModMenuOption
             "english": "Eat this item."
         },
         "icon": {
-            "instanceID": 66794
+            "instanceID": 68712
         },
         "order": 0
     },
@@ -144,7 +146,7 @@ ItemModConsume
     "product": [
         {
             "itemDef": {
-                "instanceID": 206734
+                "instanceID": 212854
             },
             "amount": {
                 "serializedVersion": "2",
@@ -162,32 +164,21 @@ ItemModConsume
                     },
                     {
                         "serializedVersion": "3",
-                        "time": 0.849972128868103,
-                        "value": 1.299100637435913,
-                        "inSlope": 0.7601274847984314,
-                        "outSlope": 0.7601274847984314,
+                        "time": 0.9674584269523621,
+                        "value": 1.3461312055587769,
+                        "inSlope": 0.8443909287452698,
+                        "outSlope": 0.8443909287452698,
                         "tangentMode": 0,
                         "weightedMode": 0,
-                        "inWeight": 0.04387432709336281,
-                        "outWeight": 0.17109836637973786
+                        "inWeight": 0.03544997051358223,
+                        "outWeight": 0.8698596358299255
                     },
                     {
                         "serializedVersion": "3",
-                        "time": 0.9508949518203735,
-                        "value": 1.999802589416504,
+                        "time": 1.0004554986953736,
+                        "value": 2.011551856994629,
                         "inSlope": 15.935097694396973,
                         "outSlope": 15.935097694396973,
-                        "tangentMode": 0,
-                        "weightedMode": 0,
-                        "inWeight": 0.3333333432674408,
-                        "outWeight": 0.3333333432674408
-                    },
-                    {
-                        "serializedVersion": "3",
-                        "time": 1.0015374422073365,
-                        "value": 3.0251920223236086,
-                        "inSlope": 2.9293434619903566,
-                        "outSlope": 2.9293434619903566,
                         "tangentMode": 0,
                         "weightedMode": 0,
                         "inWeight": 0.3333333432674408,

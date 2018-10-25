@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A very cheap, very ineffective, and very unreliable pistol that fires shells."
     },
     "iconSprite": {
-        "instanceID": 144538
+        "instanceID": 149072
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 161380
+        "instanceID": 166502
     },
     "inventoryGrabSound": {
-        "instanceID": 161380
+        "instanceID": 166502
     },
     "inventoryDropSound": {
-        "instanceID": 175542
+        "instanceID": 181346
     },
     "physImpactSoundDef": {
-        "instanceID": 168100
+        "instanceID": 173414
     },
     "condition": {
         "enabled": true,
@@ -77,13 +77,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 75.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 30.0
         }

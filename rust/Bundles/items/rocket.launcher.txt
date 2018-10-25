@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Shoots rockets slightly farther than North Korea."
     },
     "iconSprite": {
-        "instanceID": 115412
+        "instanceID": 118272
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 4,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 67512
+        "instanceID": 69434
     },
     "inventoryGrabSound": {
-        "instanceID": 67512
+        "instanceID": 69434
     },
     "inventoryDropSound": {
-        "instanceID": 29016
+        "instanceID": 29570
     },
     "physImpactSoundDef": {
-        "instanceID": 148704
+        "instanceID": 153384
     },
     "condition": {
         "enabled": true,
@@ -77,13 +77,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 50.0
         },
         {
             "itemDef": {
-                "instanceID": 1335544
+                "instanceID": 1341836
             },
             "amount": 6.0
         }

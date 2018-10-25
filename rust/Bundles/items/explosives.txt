@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A component used for crafting C4 and Rockets."
     },
     "iconSprite": {
-        "instanceID": 162900
+        "instanceID": 168090
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 4,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -69,25 +69,25 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1338224
+                "instanceID": 1344546
             },
             "amount": 50.0
         },
         {
             "itemDef": {
-                "instanceID": 1336844
+                "instanceID": 1343144
             },
             "amount": 3.0
         },
         {
             "itemDef": {
-                "instanceID": 207048
+                "instanceID": 213168
             },
             "amount": 10.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 10.0
         }

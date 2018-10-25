@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A large medkit."
     },
     "iconSprite": {
-        "instanceID": 151586
+        "instanceID": 156386
     },
     "category": 6,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -107,13 +107,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1795990
+                "instanceID": 1801958
             },
             "amount": 2.0
         },
         {
             "itemDef": {
-                "instanceID": 1336844
+                "instanceID": 1343144
             },
             "amount": 50.0
         }
@@ -136,7 +136,7 @@ ItemModMenuOption
 {
     "commandName": "consume",
     "actionTarget": {
-        "instanceID": 1796322
+        "instanceID": 1802322
     },
     "option": {
         "name": {
@@ -148,7 +148,7 @@ ItemModMenuOption
             "english": "Use this medkit on yourself"
         },
         "icon": {
-            "instanceID": 40136
+            "instanceID": 41150
         },
         "order": 0
     },

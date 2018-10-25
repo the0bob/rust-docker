@@ -13,7 +13,7 @@ ItemDefinition
         "english": "This little piggy has been in the oven for too long."
     },
     "iconSprite": {
-        "instanceID": 150974
+        "instanceID": 155748
     },
     "category": 7,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryGrabSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryDropSound": {
-        "instanceID": 159628
+        "instanceID": 164700
     },
     "physImpactSoundDef": {
-        "instanceID": 67782
+        "instanceID": 69718
     },
     "condition": {
         "enabled": false,
@@ -100,7 +100,7 @@ ItemModMenuOption
 {
     "commandName": "consume",
     "actionTarget": {
-        "instanceID": 2075440
+        "instanceID": 2148312
     },
     "option": {
         "name": {
@@ -112,7 +112,7 @@ ItemModMenuOption
             "english": "Eat this item."
         },
         "icon": {
-            "instanceID": 66794
+            "instanceID": 68712
         },
         "order": 0
     },
@@ -122,7 +122,7 @@ ItemModMenuOption
 ItemModCookable
 {
     "becomeOnCooked": {
-        "instanceID": 207104
+        "instanceID": 213224
     },
     "cookTime": 120.0,
     "amountOfBecome": 1,

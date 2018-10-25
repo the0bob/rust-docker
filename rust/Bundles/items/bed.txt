@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building."
     },
     "iconSprite": {
-        "instanceID": 84820
+        "instanceID": 87060
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,19 +78,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 60.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 100.0
         },
         {
             "itemDef": {
-                "instanceID": 1338048
+                "instanceID": 1344370
             },
             "amount": 2.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Metal Fragments. Smelted from Metal Ore, used in lots of different crafting recipes."
     },
     "iconSprite": {
-        "instanceID": 98068
+        "instanceID": 100482
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 116658
+        "instanceID": 119536
     },
     "inventoryGrabSound": {
-        "instanceID": 116658
+        "instanceID": 119536
     },
     "inventoryDropSound": {
-        "instanceID": 79520
+        "instanceID": 81658
     },
     "physImpactSoundDef": {
-        "instanceID": 101862
+        "instanceID": 104402
     },
     "condition": {
         "enabled": false,

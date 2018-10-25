@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Shelves for item stacking"
     },
     "iconSprite": {
-        "instanceID": 95912
+        "instanceID": 98300
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 131044
+        "instanceID": 134146
     },
     "inventoryGrabSound": {
-        "instanceID": 131044
+        "instanceID": 134146
     },
     "inventoryDropSound": {
-        "instanceID": 176106
+        "instanceID": 181930
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,7 +78,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 50.0
         }

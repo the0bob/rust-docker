@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Cooked Deer Meat. Eating it will restore some health, hunger, and thirst."
     },
     "iconSprite": {
-        "instanceID": 95302
+        "instanceID": 97688
     },
     "category": 7,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryGrabSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryDropSound": {
-        "instanceID": 159628
+        "instanceID": 164700
     },
     "physImpactSoundDef": {
-        "instanceID": 67782
+        "instanceID": 69718
     },
     "condition": {
         "enabled": false,
@@ -105,7 +105,7 @@ ItemModConsumable
 ItemModCookable
 {
     "becomeOnCooked": {
-        "instanceID": 2074360
+        "instanceID": 2147232
     },
     "cookTime": 60.0,
     "amountOfBecome": 1,
@@ -118,7 +118,7 @@ ItemModMenuOption
 {
     "commandName": "consume",
     "actionTarget": {
-        "instanceID": 2074410
+        "instanceID": 2147282
     },
     "option": {
         "name": {
@@ -130,7 +130,7 @@ ItemModMenuOption
             "english": "Eat this item."
         },
         "icon": {
-            "instanceID": 66794
+            "instanceID": 68712
         },
         "order": 0
     },

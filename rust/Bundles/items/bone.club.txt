@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A blunt weapon made from a femur. All around basic gathering tool."
     },
     "iconSprite": {
-        "instanceID": 78236
+        "instanceID": 80350
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryGrabSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryDropSound": {
-        "instanceID": 126924
+        "instanceID": 129996
     },
     "physImpactSoundDef": {
-        "instanceID": 45166
+        "instanceID": 46228
     },
     "condition": {
         "enabled": true,
@@ -77,7 +77,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206896
+                "instanceID": 213016
             },
             "amount": 20.0
         }

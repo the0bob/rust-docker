@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A ladder will help you climb walls in any base."
     },
     "iconSprite": {
-        "instanceID": 136422
+        "instanceID": 140786
     },
     "category": 1,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 100104
+        "instanceID": 102632
     },
     "inventoryGrabSound": {
-        "instanceID": 100104
+        "instanceID": 102632
     },
     "inventoryDropSound": {
-        "instanceID": 186900
+        "instanceID": 192912
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -78,13 +78,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 300.0
         },
         {
             "itemDef": {
-                "instanceID": 1335548
+                "instanceID": 1341840
             },
             "amount": 3.0
         }

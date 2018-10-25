@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Rock. The most basic melee weapon and gathering tool."
     },
     "iconSprite": {
-        "instanceID": 159622
+        "instanceID": 164694
     },
     "category": 5,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 184988
+        "instanceID": 190960
     },
     "inventoryGrabSound": {
-        "instanceID": 184988
+        "instanceID": 190960
     },
     "inventoryDropSound": {
-        "instanceID": 69556
+        "instanceID": 71520
     },
     "physImpactSoundDef": {
-        "instanceID": 88230
+        "instanceID": 90486
     },
     "condition": {
         "enabled": true,
@@ -99,7 +99,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206990
+                "instanceID": 213110
             },
             "amount": 10.0
         }

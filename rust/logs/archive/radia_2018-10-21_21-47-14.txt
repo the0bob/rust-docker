@@ -1,0 +1,355 @@
+Found path: /steamcmd/rust/RustDedicated
+Mono path[0] = '/steamcmd/rust/RustDedicated_Data/Managed'
+Mono config path = '/steamcmd/rust/RustDedicated_Data/MonoBleedingEdge/etc'
+Preloaded 'libRakNet.so'
+Preloaded 'libRustNative.so'
+eac_server.so [x64] :: OnLoad()
+Preloaded 'libeac_server.so'
+Preloaded 'libeasyanticheat.so'
+Preloaded 'libsteam_api64.so'
+Preloaded 'steamclient.so'
+Unable to preload the following plugins:
+	libRenderer.so
+	libRustNative.so
+	libRenderer.so
+	sqlite3.so
+PlayerPrefs - Creating folder: /root/.config/unity3d/Facepunch Studios LTD
+PlayerPrefs - Creating folder: /root/.config/unity3d/Facepunch Studios LTD/Rust
+Initialize engine version: 2018.1.4f1 (1a308f4ebef1)
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.454 seconds
+WARNING: Shader Unsupported: 'Hidden/Internal-ScreenSpaceShadows' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-ScreenSpaceShadows' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - Setting to default shader.
+UnloadTime: 1.006000 ms
+3D Noise requires higher shader capabilities (Shader Model 3.5 / OpenGL ES 3.0), which are not available on the current platform: graphicsShaderLevel (current/required) = 30 / 35
+Bootstrap Startup
+System
+	Name: b0dabc239f64
+	OS:   Linux 4.9 Ubuntu 16.04 64bit
+CPU
+	Model:  Intel(R) Core(TM) i3-4340 CPU @ 3.60GHz
+	Cores:  2
+	Memory: 8194 MB
+GPU
+	Model:  Null Device
+	API:    NULL 1.0 [1.0]
+	Memory: 128 MB
+	SM:     30
+Process
+	Memory:   0 MB
+Mono
+	Collects: 14
+	Memory:   0 MB
+Manifest Metadata Loaded
+	12218 pooled strings
+	14 mesh colliders
+	5585 prefab properties
+	388 effect categories
+	617 entity names
+	86 skinnable names
+Command Line: "/steamcmd/rust/RustDedicated" "-batchmode" "-load" "+server.secure" "1" "+rcon.port" "28016" "+rcon.password" "******" "+rcon.web" "1" "-logfile" "/dev/stdout" "+server.identity" "radia" "+server.seed" "32483" "+server.hostname" "Radia" "+server.url" "https://www.bobpalmer.info" "+server.headerimage" "https://s3.us-east-2.amazonaws.com/bob-palmer-website/img/background-1.jpg" "+server.description" ""This is a Dockerized Rust Server, by derp..."" "+server.worldsize" "1750" "+server.maxplayers" "10" "+server.saveinterval" "600" 
+Command 'batchmode' not found
+Command 'load' not found
+server.secure: "True"
+rcon.port: "28016"
+Command 'rcon.password' not found
+rcon.web: "True"
+Command 'logfile' not found
+server.identity: "radia"
+server.seed: "32483"
+server.hostname: "Radia"
+server.url: "https://www.bobpalmer.info"
+server.headerimage: "https://s3.us-east-2.amazonaws.com/bob-palmer-website/img/background-1.jpg"
+server.description: "This"
+server.worldsize: "1750"
+server.maxplayers: "10"
+server.saveinterval: "600"
+[Manifest] URI IS "https://api.facepunch.com/api/public/manifest/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1"
+Command 'batchmode' not found
+Command 'load' not found
+server.secure: "True"
+rcon.port: "28016"
+Command 'rcon.password' not found
+rcon.web: "True"
+Command 'logfile' not found
+server.identity: "radia"
+server.seed: "32483"
+server.hostname: "Radia"
+server.url: "https://www.bobpalmer.info"
+server.headerimage: "https://s3.us-east-2.amazonaws.com/bob-palmer-website/img/background-1.jpg"
+server.description: "This"
+server.worldsize: "1750"
+server.maxplayers: "10"
+server.saveinterval: "600"
+Server Config Loaded
+Running server/radia/cfg/users.cfg
+Loading Items Took: 2.5655771 seconds
+Building Items Took: 2.5802772 seconds / Items: 426 / Blueprints: 256
+Skinnable Warmup
+Manifest Assets Loaded
+	86 skinnable objects
+Loading Scene
+Unloading 5 Unused Serialized files (Serialized files now loaded: 63)
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/ScreenSpaceReflections' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/ScreenSpaceReflections' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Vectorscope' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Vectorscope' - Setting to default shader.
+WARNING: Shader Unsupported: 'Rust/Standard Terrain BaseMap' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain BaseMap' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain BaseMap' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Histogram' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Histogram' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Pass 'COC CALCULATION' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Pass 'COC CALCULATION' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/MultiScaleVO' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/MultiScaleVO' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/LightMeter' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/LightMeter' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Waveform' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Waveform' - Setting to default shader.
+WARNING: Shader Unsupported: 'Rust/Standard Terrain' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain' - All passes removed
+UnloadTime: 5.668000 ms
+[CoverageQueries] Disabled due to unsupported Async GPU Reads on device Null
+Floating point textures aren't supported on this device (Main Camera (UnityStandardAssets.CinematicEffects.TonemappingColorGrading))
+Plugins: Couldn't open /steamcmd/rust/RustDedicated_Data/Plugins/x86_64/libRenderer.so, error: /steamcmd/rust/RustDedicated_Data/Plugins/x86_64/libRenderer.so: undefined symbol: glXGetProcAddressARB
+Fallback handler could not load library /steamcmd/rust/RustDedicated_Data/Mono/libRenderer
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 24749.
+Total: 130.587000 ms (FindLiveObjects: 1.518000 ms CreateObjectMapping: 2.345000 ms MarkObjects: 126.523000 ms  DeleteObjects: 0.199000 ms)
+Asset Warmup (1/5082)
+Asset Warmup (101/5082)
+Asset Warmup (115/5082)
+Asset Warmup (233/5082)
+Asset Warmup (253/5082)
+Asset Warmup (302/5082)
+Asset Warmup (467/5082)
+Asset Warmup (818/5082)
+Asset Warmup (836/5082)
+Asset Warmup (1391/5082)
+Asset Warmup (1960/5082)
+Asset Warmup (2317/5082)
+Asset Warmup (2496/5082)
+Asset Warmup (2532/5082)
+Asset Warmup (2635/5082)
+Asset Warmup (2817/5082)
+Asset Warmup (2966/5082)
+Asset Warmup (3109/5082)
+Asset Warmup (3339/5082)
+Asset Warmup (3615/5082)
+Asset Warmup (3819/5082)
+Asset Warmup (3839/5082)
+Asset Warmup (3870/5082)
+Asset Warmup (3936/5082)
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Vectorscope' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Vectorscope' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Histogram' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Histogram' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/MultiScaleVO' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/MultiScaleVO' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Pass 'COC CALCULATION' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Pass 'COC CALCULATION' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Waveform' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Waveform' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/ScreenSpaceReflections' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/ScreenSpaceReflections' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/LightMeter' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/LightMeter' - Setting to default shader.
+Asset Warmup (4112/5082)
+Asset Warmup (4302/5082)
+Asset Warmup (4598/5082)
+Asset Warmup (5046/5082)
+Asset Warmup (5082/5082)
+WebSocket RCon Started on 28016
+Generating procedural map of size 1750 with seed 32483
+Shader 'Nature/Terrain/Diffuse': dependency 'AddPassShader' shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+Shader 'Hidden/TerrainEngine/Splatmap/Standard-AddPass': fallback shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+[0.6s] Height Map
+[0.5s] Topology Map
+[0.8s] Harbors
+WARNING: Shader Unsupported: 'Rust/Standard Blend 4-Way' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Blend 4-Way' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain Blend (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain Blend (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain Blend (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain Blend (Specular setup)' - All passes removed
+[3.1s] Large Monuments
+[1.3s] Medium Monuments
+[0.8s] Small Monuments
+[0.5s] Tiny Monuments
+[0.7s] Swamps
+[0.4s] Ice Lakes
+[2.4s] Caves
+[0.6s] Cliff Splat
+[0.7s] Cliff Topology
+[15.1s] Processing World
+Generating Ocean Patrol Paths...
+Generated ocean patrol path with node count: 158
+Done!
+Starting Navmesh Source Collecting.
+Calling CollectSourcesAsync took 2.225613
+Starting Navmesh Build with 8410 sources
+10%
+22%
+23%
+28%
+29%
+32%
+33%
+34%
+37%
+38%
+39%
+42%
+43%
+46%
+47%
+48%
+51%
+52%
+55%
+56%
+57%
+60%
+61%
+62%
+64%
+65%
+66%
+67%
+69%
+70%
+71%
+73%
+74%
+75%
+77%
+79%
+85%
+100%
+Navmesh Build took 15.37 seconds
+Starting Navmesh Source Collecting.
+Calling CollectSourcesAsync took 0.1032333
+Starting Monument Navmesh Build with 2164 sources
+2%
+3%
+5%
+6%
+7%
+8%
+10%
+11%
+12%
+13%
+14%
+16%
+18%
+19%
+20%
+21%
+22%
+23%
+25%
+26%
+27%
+28%
+30%
+31%
+32%
+33%
+34%
+35%
+36%
+37%
+38%
+40%
+41%
+42%
+43%
+45%
+46%
+47%
+48%
+50%
+51%
+52%
+53%
+55%
+56%
+57%
+58%
+59%
+60%
+61%
+62%
+63%
+64%
+65%
+66%
+68%
+69%
+70%
+71%
+72%
+73%
+75%
+76%
+77%
+78%
+79%
+80%
+81%
+82%
+83%
+84%
+85%
+86%
+100%
+Monument Navmesh Build took 31.45 seconds
+Map Spawned 99 entities
+Couldn't load server/radia/proceduralmap.1750.32483.170.sav - file doesn't exist
+Missing EnvSync - creating
+Missing CommunityEntity - creating
+Missing ResourceDepositManager - creating
+Missing RelationshipManager - creating
+Initializing 4318 entity links
+	done.
+Initializing 39 stability supports
+	done.
+Initializing 2631 entity save caches
+	done.
+Facepunch.Steamworks Unity: LinuxPlayer
+Facepunch.Steamworks Os: Linux
+Facepunch.Steamworks Arch: x64
+Setting breakpad minidump AppID = 252490
+Connected to Steam
+Server startup complete
+172.18.0.1:48705/76561198052269461/kc_cyberpunk has auth level 2
+172.18.0.1:48705/76561198052269461/kc_cyberpunk joined [windows/76561198052269461]
+kc_cyberpunk[8002/76561198052269461] has entered the game
+172.18.0.1:48705/76561198052269461/kc_cyberpunk disconnecting: disconnect
+Invalidate Network Cache took 0.00 seconds
+Saved 3,277 ents, cache(0.04), write(0.00), disk(0.04).
+Saving complete
+Config Saved
+[Raknet] Server Shutting Down (quit)

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A single sign post that you can plant into terrain."
     },
     "iconSprite": {
-        "instanceID": 85458
+        "instanceID": 87706
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 100104
+        "instanceID": 102632
     },
     "inventoryGrabSound": {
-        "instanceID": 100104
+        "instanceID": 102632
     },
     "inventoryDropSound": {
-        "instanceID": 186900
+        "instanceID": 192912
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -50,7 +50,7 @@ ItemDefinition
     "hidden": false,
     "flags": 0,
     "steamItem": {
-        "instanceID": 121696
+        "instanceID": 124730
     },
     "Parent": {
         "instanceID": 0
@@ -77,7 +77,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 200.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Use this on the terrain to see which resources are available for mining."
     },
     "iconSprite": {
-        "instanceID": 153882
+        "instanceID": 158742
     },
     "category": 5,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 161380
+        "instanceID": 166502
     },
     "inventoryGrabSound": {
-        "instanceID": 161380
+        "instanceID": 166502
     },
     "inventoryDropSound": {
-        "instanceID": 175542
+        "instanceID": 181346
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -77,25 +77,25 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1338224
+                "instanceID": 1344546
             },
             "amount": 30.0
         },
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 5.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 10.0
         },
         {
             "itemDef": {
-                "instanceID": 1336844
+                "instanceID": 1343144
             },
             "amount": 20.0
         }

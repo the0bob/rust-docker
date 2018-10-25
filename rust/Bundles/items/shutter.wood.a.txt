@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Wood shutters that you can open and close."
     },
     "iconSprite": {
-        "instanceID": 29150
+        "instanceID": 29734
     },
     "category": 1,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 100104
+        "instanceID": 102632
     },
     "inventoryGrabSound": {
-        "instanceID": 100104
+        "instanceID": 102632
     },
     "inventoryDropSound": {
-        "instanceID": 186900
+        "instanceID": 192912
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -77,7 +77,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 200.0
         }

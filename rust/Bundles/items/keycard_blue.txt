@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A keycard with medium level clearance."
     },
     "iconSprite": {
-        "instanceID": 67816
+        "instanceID": 69752
     },
     "category": 10,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryGrabSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryDropSound": {
-        "instanceID": 149210
+        "instanceID": 153888
     },
     "physImpactSoundDef": {
-        "instanceID": 42610
+        "instanceID": 43654
     },
     "condition": {
         "enabled": true,

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Metal Blade for making melee weapons."
     },
     "iconSprite": {
-        "instanceID": 147036
+        "instanceID": 151664
     },
     "category": 13,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 95148
+        "instanceID": 97532
     },
     "inventoryGrabSound": {
-        "instanceID": 95148
+        "instanceID": 97532
     },
     "inventoryDropSound": {
-        "instanceID": 40790
+        "instanceID": 41806
     },
     "physImpactSoundDef": {
-        "instanceID": 101862
+        "instanceID": 104402
     },
     "condition": {
         "enabled": false,
@@ -69,13 +69,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 30.0
         },
         {
             "itemDef": {
-                "instanceID": 543694
+                "instanceID": 549814
             },
             "amount": 10.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A makeshift riot Helmet. Great at deflecting melee attacks."
     },
     "iconSprite": {
-        "instanceID": 79144
+        "instanceID": 81278
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 121694
+        "instanceID": 124728
     },
     "condition": {
         "enabled": true,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "b6d8cfa15ba0bff4a952f9d2d6cc0892"
     },
     "protectionProperties": {
-        "instanceID": 34676
+        "instanceID": 35484
     },
     "armorProperties": {
-        "instanceID": 108386
+        "instanceID": 111092
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,13 +93,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 10.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 50.0
         }

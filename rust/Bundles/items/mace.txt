@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons."
     },
     "iconSprite": {
-        "instanceID": 97810
+        "instanceID": 100218
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 95148
+        "instanceID": 97532
     },
     "inventoryGrabSound": {
-        "instanceID": 95148
+        "instanceID": 97532
     },
     "inventoryDropSound": {
-        "instanceID": 40790
+        "instanceID": 41806
     },
     "physImpactSoundDef": {
-        "instanceID": 148704
+        "instanceID": 153384
     },
     "condition": {
         "enabled": true,
@@ -77,13 +77,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 100.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 50.0
         }

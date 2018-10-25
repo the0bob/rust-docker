@@ -13,7 +13,7 @@ ItemDefinition
         "english": "You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items."
     },
     "iconSprite": {
-        "instanceID": 78360
+        "instanceID": 80478
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,7 +78,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 125.0
         }

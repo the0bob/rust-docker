@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out."
     },
     "iconSprite": {
-        "instanceID": 159682
+        "instanceID": 164776
     },
     "category": 2,
     "selectionPanel": 1,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -92,7 +92,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 10.0
         }

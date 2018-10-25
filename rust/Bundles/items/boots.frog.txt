@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Thank you for playing the game through its early access run. Enjoy these boots made from radiation resistant frog rubber."
     },
     "iconSprite": {
-        "instanceID": 158972
+        "instanceID": 164024
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 179972
+        "instanceID": 185904
     },
     "inventoryGrabSound": {
-        "instanceID": 179972
+        "instanceID": 185904
     },
     "inventoryDropSound": {
-        "instanceID": 26580
+        "instanceID": 27124
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -50,7 +50,7 @@ ItemDefinition
     "hidden": false,
     "flags": 0,
     "steamItem": {
-        "instanceID": 185720
+        "instanceID": 191702
     },
     "Parent": {
         "instanceID": 0
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "929e5ccb81dcab540b6d76e6624f7e24"
     },
     "protectionProperties": {
-        "instanceID": 151328
+        "instanceID": 156110
     },
     "armorProperties": {
-        "instanceID": 141320
+        "instanceID": 145808
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,7 +93,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1338454
+                "instanceID": 1344770
             },
             "amount": 1.0
         }

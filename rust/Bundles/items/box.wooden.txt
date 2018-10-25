@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Keep your things in this wooden storage box. Stores up to 12 items."
     },
     "iconSprite": {
-        "instanceID": 82182
+        "instanceID": 84348
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 100104
+        "instanceID": 102632
     },
     "inventoryGrabSound": {
-        "instanceID": 100104
+        "instanceID": 102632
     },
     "inventoryDropSound": {
-        "instanceID": 186900
+        "instanceID": 192912
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -78,7 +78,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 100.0
         }

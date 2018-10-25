@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A thick, high visibility Jacket. It will help keep you warm in any climate."
     },
     "iconSprite": {
-        "instanceID": 85954
+        "instanceID": 88200
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryGrabSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryDropSound": {
-        "instanceID": 41786
+        "instanceID": 42826
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "5067fc41560bbf84887ffe649356910c"
     },
     "protectionProperties": {
-        "instanceID": 81700
+        "instanceID": 83866
     },
     "armorProperties": {
-        "instanceID": 70176
+        "instanceID": 72150
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": "0d9cebe93cc847649b88868f9797ac49"
     }
@@ -91,13 +93,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 60.0
         },
         {
             "itemDef": {
-                "instanceID": 1338048
+                "instanceID": 1344370
             },
             "amount": 1.0
         }

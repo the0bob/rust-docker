@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Pumpkin Seeds can be found when picking wild Pumpkin plants. These seeds can be planted in the ground and grown to collect additional food.\r\n\r\nPlanting these seeds in a planter, and then watering them with large quantities of water yields significantly more Pumpkins and faster groth."
     },
     "iconSprite": {
-        "instanceID": 99546
+        "instanceID": 102074
     },
     "category": 7,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 80294
+        "instanceID": 82450
     },
     "inventoryGrabSound": {
-        "instanceID": 80294
+        "instanceID": 82450
     },
     "inventoryDropSound": {
-        "instanceID": 119756
+        "instanceID": 122756
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,

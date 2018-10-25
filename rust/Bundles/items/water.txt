@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Water. Drinking it will alleviate your thirst."
     },
     "iconSprite": {
-        "instanceID": 85022
+        "instanceID": 87264
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 49004
+        "instanceID": 50240
     },
     "inventoryGrabSound": {
-        "instanceID": 49004
+        "instanceID": 50240
     },
     "inventoryDropSound": {
-        "instanceID": 130774
+        "instanceID": 133874
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,

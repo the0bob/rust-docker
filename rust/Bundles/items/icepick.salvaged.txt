@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A high-yield resource gathering Icepick."
     },
     "iconSprite": {
-        "instanceID": 153792
+        "instanceID": 158648
     },
     "category": 5,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 94164
+        "instanceID": 96550
     },
     "inventoryGrabSound": {
-        "instanceID": 94164
+        "instanceID": 96550
     },
     "inventoryDropSound": {
-        "instanceID": 136916
+        "instanceID": 141280
     },
     "physImpactSoundDef": {
-        "instanceID": 49582
+        "instanceID": 50832
     },
     "condition": {
         "enabled": true,
@@ -77,13 +77,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1335544
+                "instanceID": 1341836
             },
             "amount": 1.0
         },
         {
             "itemDef": {
-                "instanceID": 1335546
+                "instanceID": 1341838
             },
             "amount": 5.0
         }

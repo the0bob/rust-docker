@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Smash some faces with this large piece of candy"
     },
     "iconSprite": {
-        "instanceID": 40158
+        "instanceID": 41172
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryGrabSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryDropSound": {
-        "instanceID": 149210
+        "instanceID": 153888
     },
     "physImpactSoundDef": {
-        "instanceID": 45166
+        "instanceID": 46228
     },
     "condition": {
         "enabled": true,
@@ -136,7 +136,7 @@ ItemModMenuOption
 {
     "commandName": "consume",
     "actionTarget": {
-        "instanceID": 2087196
+        "instanceID": 2162326
     },
     "option": {
         "name": {
@@ -148,7 +148,7 @@ ItemModMenuOption
             "english": "Lick it"
         },
         "icon": {
-            "instanceID": 40570
+            "instanceID": 41586
         },
         "order": 0
     },

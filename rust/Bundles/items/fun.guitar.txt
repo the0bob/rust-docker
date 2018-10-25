@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A type of instrument. Play with primary and secondary fire. Change your view angle to alter the pitch."
     },
     "iconSprite": {
-        "instanceID": 155252
+        "instanceID": 160252
     },
     "category": 10,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -77,13 +77,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 50.0
         },
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 10.0
         }

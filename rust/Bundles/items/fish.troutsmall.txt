@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Small Trout. Good for a few meals."
     },
     "iconSprite": {
-        "instanceID": 79038
+        "instanceID": 81174
     },
     "category": 7,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryGrabSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryDropSound": {
-        "instanceID": 159628
+        "instanceID": 164700
     },
     "physImpactSoundDef": {
-        "instanceID": 67782
+        "instanceID": 69718
     },
     "condition": {
         "enabled": false,
@@ -72,19 +72,19 @@ ItemModSwap
     "becomeItem": [
         {
             "itemDef": {
-                "instanceID": 206896
+                "instanceID": 213016
             },
             "amount": 5.0
         },
         {
             "itemDef": {
-                "instanceID": 2065216
+                "instanceID": 2138100
             },
             "amount": 4.0
         },
         {
             "itemDef": {
-                "instanceID": 1339388
+                "instanceID": 1345510
             },
             "amount": 8.0
         }
@@ -98,7 +98,7 @@ ItemModMenuOption
 {
     "commandName": "Gut",
     "actionTarget": {
-        "instanceID": 2065186
+        "instanceID": 2138070
     },
     "option": {
         "name": {
@@ -110,7 +110,7 @@ ItemModMenuOption
             "english": "Prepare the fish for eating"
         },
         "icon": {
-            "instanceID": 150838
+            "instanceID": 155604
         },
         "order": 0
     },

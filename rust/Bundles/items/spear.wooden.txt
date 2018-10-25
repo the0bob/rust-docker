@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear."
     },
     "iconSprite": {
-        "instanceID": 157706
+        "instanceID": 162740
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryGrabSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryDropSound": {
-        "instanceID": 126924
+        "instanceID": 129996
     },
     "physImpactSoundDef": {
-        "instanceID": 105004
+        "instanceID": 107626
     },
     "condition": {
         "enabled": true,
@@ -77,7 +77,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 300.0
         }

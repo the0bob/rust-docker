@@ -13,7 +13,7 @@ ItemDefinition
         "english": "An interactive spinning wheel."
     },
     "iconSprite": {
-        "instanceID": 159296
+        "instanceID": 164360
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,13 +26,13 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 112102
+        "instanceID": 114892
     },
     "inventoryGrabSound": {
-        "instanceID": 112102
+        "instanceID": 114892
     },
     "inventoryDropSound": {
-        "instanceID": 12432
+        "instanceID": 12942
     },
     "physImpactSoundDef": {
         "instanceID": 0
@@ -77,7 +77,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 150.0
         }

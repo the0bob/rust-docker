@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity."
     },
     "iconSprite": {
-        "instanceID": 126660
+        "instanceID": 129732
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,13 +26,13 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 84424
+        "instanceID": 86656
     },
     "inventoryGrabSound": {
-        "instanceID": 84424
+        "instanceID": 86656
     },
     "inventoryDropSound": {
-        "instanceID": 35652
+        "instanceID": 36542
     },
     "physImpactSoundDef": {
         "instanceID": 0
@@ -78,7 +78,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 100.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "An arrow for a Hunting Bow and Crossbow."
     },
     "iconSprite": {
-        "instanceID": 47902
+        "instanceID": 49072
     },
     "category": 8,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 49424
+        "instanceID": 50666
     },
     "inventoryGrabSound": {
-        "instanceID": 49424
+        "instanceID": 50666
     },
     "inventoryDropSound": {
-        "instanceID": 32810
+        "instanceID": 33494
     },
     "physImpactSoundDef": {
-        "instanceID": 97428
+        "instanceID": 99838
     },
     "condition": {
         "enabled": false,
@@ -91,13 +91,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 25.0
         },
         {
             "itemDef": {
-                "instanceID": 206990
+                "instanceID": 213110
             },
             "amount": 10.0
         }

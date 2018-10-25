@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Shoes made out of burlap."
     },
     "iconSprite": {
-        "instanceID": 102956
+        "instanceID": 105548
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryGrabSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryDropSound": {
-        "instanceID": 41786
+        "instanceID": 42826
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "7048600bab2c1f24198cba721d60e121"
     },
     "protectionProperties": {
-        "instanceID": 86158
+        "instanceID": 88404
     },
     "armorProperties": {
-        "instanceID": 141320
+        "instanceID": 145808
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,7 +93,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 10.0
         }

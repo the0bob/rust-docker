@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A double sided hanging sign, to attach to buildings."
     },
     "iconSprite": {
-        "instanceID": 41398
+        "instanceID": 42422
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 112102
+        "instanceID": 114892
     },
     "inventoryGrabSound": {
-        "instanceID": 112102
+        "instanceID": 114892
     },
     "inventoryDropSound": {
-        "instanceID": 12432
+        "instanceID": 12942
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -50,7 +50,7 @@ ItemDefinition
     "hidden": false,
     "flags": 0,
     "steamItem": {
-        "instanceID": 61914
+        "instanceID": 63746
     },
     "Parent": {
         "instanceID": 0
@@ -77,7 +77,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 100.0
         }

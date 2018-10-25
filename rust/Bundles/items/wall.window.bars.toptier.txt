@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles."
     },
     "iconSprite": {
-        "instanceID": 69514
+        "instanceID": 71478
     },
     "category": 1,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 112102
+        "instanceID": 114892
     },
     "inventoryGrabSound": {
-        "instanceID": 112102
+        "instanceID": 114892
     },
     "inventoryDropSound": {
-        "instanceID": 12432
+        "instanceID": 12942
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -78,7 +78,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 4.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A small planter with enough room to plant 3 seeds.\r\n\r\nSeeds placed in a planter grow faster as they would normally in the wild. When explosed to a light source they'll grow at a further additional rate.\r\n\r\nRegularly watering your plants in the planter with fresh water will significantly increase their yield.\r\n\r\nWhen a plant has reached maturity you can take clipping which copy the genetics of the plant to make clones."
     },
     "iconSprite": {
-        "instanceID": 115818
+        "instanceID": 118680
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": true,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,13 +78,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 100.0
         },
         {
             "itemDef": {
-                "instanceID": 1338454
+                "instanceID": 1344770
             },
             "amount": 1.0
         }

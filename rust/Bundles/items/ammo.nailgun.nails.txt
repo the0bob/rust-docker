@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Standard nailgun ammunition"
     },
     "iconSprite": {
-        "instanceID": 154202
+        "instanceID": 159190
     },
     "category": 8,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 116658
+        "instanceID": 119536
     },
     "inventoryGrabSound": {
-        "instanceID": 116658
+        "instanceID": 119536
     },
     "inventoryDropSound": {
-        "instanceID": 79520
+        "instanceID": 81658
     },
     "physImpactSoundDef": {
-        "instanceID": 56904
+        "instanceID": 58636
     },
     "condition": {
         "enabled": false,
@@ -91,7 +91,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 8.0
         }

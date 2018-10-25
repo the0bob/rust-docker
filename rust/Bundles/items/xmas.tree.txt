@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Get into the holiday spirit with this decorative Christmas tree"
     },
     "iconSprite": {
-        "instanceID": 57102
+        "instanceID": 58852
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -86,13 +86,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 500.0
         },
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 30.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Shoddy ammo with multiple projectiles."
     },
     "iconSprite": {
-        "instanceID": 186882
+        "instanceID": 192894
     },
     "category": 8,
     "selectionPanel": 0,
@@ -26,13 +26,13 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
         "instanceID": 0
@@ -114,13 +114,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206990
+                "instanceID": 213110
             },
             "amount": 5.0
         },
         {
             "itemDef": {
-                "instanceID": 1338224
+                "instanceID": 1344546
             },
             "amount": 5.0
         }

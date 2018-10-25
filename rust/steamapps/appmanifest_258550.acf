@@ -5,11 +5,11 @@
 	"name"		"Rust Dedicated Server"
 	"StateFlags"		"4"
 	"installdir"		"rust_dedicated"
-	"LastUpdated"		"1538255989"
+	"LastUpdated"		"1540154098"
 	"UpdateResult"		"0"
-	"SizeOnDisk"		"5674505537"
-	"buildid"		"3111903"
-	"LastOwner"		"76561201586528424"
+	"SizeOnDisk"		"5906089628"
+	"buildid"		"3229706"
+	"LastOwner"		"76561202005657744"
 	"BytesToDownload"		"0"
 	"BytesDownloaded"		"0"
 	"AutoUpdateBehavior"		"0"
@@ -17,21 +17,22 @@
 	"ScheduledAutoUpdate"		"0"
 	"UserConfig"
 	{
+		"betakey"		""
 	}
 	"InstalledDepots"
 	{
 		"258552"
 		{
-			"manifest"		"6957464496871263092"
+			"manifest"		"7589959500062415866"
 		}
 		"258554"
 		{
-			"manifest"		"7022472674048653832"
+			"manifest"		"2605346645430831440"
 		}
 	}
 	"MountedDepots"
 	{
-		"258552"		"6957464496871263092"
-		"258554"		"7022472674048653832"
+		"258552"		"7589959500062415866"
+		"258554"		"2605346645430831440"
 	}
 }

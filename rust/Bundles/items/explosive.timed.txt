@@ -13,7 +13,7 @@ ItemDefinition
         "english": "C4, useful for breaking into bases."
     },
     "iconSprite": {
-        "instanceID": 157820
+        "instanceID": 162854
     },
     "category": 5,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 4,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -77,19 +77,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1796046
+                "instanceID": 1802020
             },
             "amount": 20.0
         },
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 5.0
         },
         {
             "itemDef": {
-                "instanceID": 1341138
+                "instanceID": 1347096
             },
             "amount": 2.0
         }

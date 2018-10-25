@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A very powerful bow. Can only be fully drawn while stationary. Keep still for bonus damage and speed."
     },
     "iconSprite": {
-        "instanceID": 185104
+        "instanceID": 191080
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 49424
+        "instanceID": 50666
     },
     "inventoryGrabSound": {
-        "instanceID": 49424
+        "instanceID": 50666
     },
     "inventoryDropSound": {
-        "instanceID": 32810
+        "instanceID": 33494
     },
     "physImpactSoundDef": {
-        "instanceID": 105004
+        "instanceID": 107626
     },
     "condition": {
         "enabled": true,
@@ -77,19 +77,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 100.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 75.0
         },
         {
             "itemDef": {
-                "instanceID": 1335548
+                "instanceID": 1341840
             },
             "amount": 2.0
         }

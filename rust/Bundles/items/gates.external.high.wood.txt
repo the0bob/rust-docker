@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A high wooden gate, allowing access in and out of your compound."
     },
     "iconSprite": {
-        "instanceID": 32526
+        "instanceID": 33196
     },
     "category": 1,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,13 +78,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 3000.0
         },
         {
             "itemDef": {
-                "instanceID": 1335540
+                "instanceID": 1341832
             },
             "amount": 5.0
         }

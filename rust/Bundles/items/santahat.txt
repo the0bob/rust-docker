@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A santa hat. Ho Ho ho."
     },
     "iconSprite": {
-        "instanceID": 86896
+        "instanceID": 89148
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryGrabSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryDropSound": {
-        "instanceID": 41786
+        "instanceID": 42826
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "9d335f67ef8472c44bdd9b97576e465c"
     },
     "protectionProperties": {
-        "instanceID": 109240
+        "instanceID": 111956
     },
     "armorProperties": {
-        "instanceID": 108386
+        "instanceID": 111092
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run."
     },
     "iconSprite": {
-        "instanceID": 168048
+        "instanceID": 173358
     },
     "category": 5,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryGrabSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryDropSound": {
-        "instanceID": 126924
+        "instanceID": 129996
     },
     "physImpactSoundDef": {
-        "instanceID": 49582
+        "instanceID": 50832
     },
     "condition": {
         "enabled": true,
@@ -77,19 +77,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 5.0
         },
         {
             "itemDef": {
-                "instanceID": 1335540
+                "instanceID": 1341832
             },
             "amount": 2.0
         },
         {
             "itemDef": {
-                "instanceID": 1335546
+                "instanceID": 1341838
             },
             "amount": 6.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "An unreliable electric fuse. Will allow electrical passthrough for a period of time."
     },
     "iconSprite": {
-        "instanceID": 172348
+        "instanceID": 177750
     },
     "category": 13,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 95148
+        "instanceID": 97532
     },
     "inventoryGrabSound": {
-        "instanceID": 95148
+        "instanceID": 97532
     },
     "inventoryDropSound": {
-        "instanceID": 40790
+        "instanceID": 41806
     },
     "physImpactSoundDef": {
-        "instanceID": 101862
+        "instanceID": 104402
     },
     "condition": {
         "enabled": true,
@@ -69,7 +69,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 543694
+                "instanceID": 549814
             },
             "amount": 50.0
         }

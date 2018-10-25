@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A shoddy piece of leg armor made from Metal Fragments and Leather."
     },
     "iconSprite": {
-        "instanceID": 90110
+        "instanceID": 92402
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 131044
+        "instanceID": 134146
     },
     "inventoryGrabSound": {
-        "instanceID": 131044
+        "instanceID": 134146
     },
     "inventoryDropSound": {
-        "instanceID": 176106
+        "instanceID": 181930
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "8c9313e7204eb0c45b7818d9f540728a"
     },
     "protectionProperties": {
-        "instanceID": 117376
+        "instanceID": 120258
     },
     "armorProperties": {
-        "instanceID": 141320
+        "instanceID": 145808
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,19 +93,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1338136
+                "instanceID": 1344458
             },
             "amount": 20.0
         },
         {
             "itemDef": {
-                "instanceID": 1338232
+                "instanceID": 1344548
             },
             "amount": 1.0
         },
         {
             "itemDef": {
-                "instanceID": 1338048
+                "instanceID": 1344370
             },
             "amount": 2.0
         }

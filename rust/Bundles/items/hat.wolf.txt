@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A headdress made out of the scraped out head of a wolf."
     },
     "iconSprite": {
-        "instanceID": 35282
+        "instanceID": 36096
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "a5f9bd4851c92c84f874da5017576b47"
     },
     "protectionProperties": {
-        "instanceID": 92260
+        "instanceID": 94598
     },
     "armorProperties": {
-        "instanceID": 108386
+        "instanceID": 111092
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,13 +93,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 10.0
         },
         {
             "itemDef": {
-                "instanceID": 1798642
+                "instanceID": 1804870
             },
             "amount": 1.0
         }

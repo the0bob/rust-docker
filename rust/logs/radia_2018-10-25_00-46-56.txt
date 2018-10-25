@@ -1,0 +1,366 @@
+Found path: /steamcmd/rust/RustDedicated
+Mono path[0] = '/steamcmd/rust/RustDedicated_Data/Managed'
+Mono config path = '/steamcmd/rust/RustDedicated_Data/MonoBleedingEdge/etc'
+Preloaded 'libRakNet.so'
+Preloaded 'libRustNative.so'
+eac_server.so [x64] :: OnLoad()
+Preloaded 'libeac_server.so'
+Preloaded 'libeasyanticheat.so'
+Preloaded 'libsteam_api64.so'
+Preloaded 'steamclient.so'
+Unable to preload the following plugins:
+	libRenderer.so
+	libRustNative.so
+	libRenderer.so
+	sqlite3.so
+Initialize engine version: 2018.1.4f1 (1a308f4ebef1)
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  4.707 seconds
+WARNING: Shader Unsupported: 'Hidden/Internal-ScreenSpaceShadows' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-ScreenSpaceShadows' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - Setting to default shader.
+UnloadTime: 3.676000 ms
+3D Noise requires higher shader capabilities (Shader Model 3.5 / OpenGL ES 3.0), which are not available on the current platform: graphicsShaderLevel (current/required) = 30 / 35
+Bootstrap Startup
+System
+	Name: 64fcc3514423
+	OS:   Linux 4.9 Ubuntu 16.04 64bit
+CPU
+	Model:  Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+	Cores:  2
+	Memory: 8194 MB
+GPU
+	Model:  Null Device
+	API:    NULL 1.0 [1.0]
+	Memory: 128 MB
+	SM:     30
+Process
+	Memory:   0 MB
+Mono
+	Collects: 14
+	Memory:   0 MB
+Manifest Metadata Loaded
+	12218 pooled strings
+	14 mesh colliders
+	5585 prefab properties
+	388 effect categories
+	617 entity names
+	86 skinnable names
+Command Line: "/steamcmd/rust/RustDedicated" "-batchmode" "-load" "+server.secure" "1" "+rcon.port" "28016" "+rcon.password" "******" "+rcon.web" "1" "-logfile" "/dev/stdout" "+server.identity" "radia" "+server.seed" "2147483647" "+server.hostname" "Radia" "+server.url" "https://www.bobpalmer.info" "+server.headerimage" "https://s3.us-east-2.amazonaws.com/bob-palmer-website/img/background-1.jpg" "+server.description" ""This is a Dockerized Rust Server, by derp..."" "+server.worldsize" "6000" "+server.maxplayers" "10" "+server.saveinterval" "600" 
+Command 'batchmode' not found
+Command 'load' not found
+server.secure: "True"
+rcon.port: "28016"
+Command 'rcon.password' not found
+rcon.web: "True"
+Command 'logfile' not found
+server.identity: "radia"
+server.seed: "2147483647"
+server.hostname: "Radia"
+server.url: "https://www.bobpalmer.info"
+server.headerimage: "https://s3.us-east-2.amazonaws.com/bob-palmer-website/img/background-1.jpg"
+server.description: "This"
+server.worldsize: "6000"
+server.maxplayers: "10"
+server.saveinterval: "600"
+[Manifest] URI IS "https://api.facepunch.com/api/public/manifest/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1"
+Command 'batchmode' not found
+Command 'load' not found
+server.secure: "True"
+rcon.port: "28016"
+Command 'rcon.password' not found
+rcon.web: "True"
+Command 'logfile' not found
+server.identity: "radia"
+server.seed: "2147483647"
+server.hostname: "Radia"
+server.url: "https://www.bobpalmer.info"
+server.headerimage: "https://s3.us-east-2.amazonaws.com/bob-palmer-website/img/background-1.jpg"
+server.description: "This"
+server.worldsize: "6000"
+server.maxplayers: "10"
+server.saveinterval: "600"
+Server Config Loaded
+Running server/radia/cfg/users.cfg
+Loading Items Took: 18.8920548 seconds
+Building Items Took: 19.06396 seconds / Items: 426 / Blueprints: 256
+Skinnable Warmup
+Manifest Assets Loaded
+	86 skinnable objects
+Loading Scene
+Unloading 5 Unused Serialized files (Serialized files now loaded: 63)
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/ScreenSpaceReflections' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/ScreenSpaceReflections' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Vectorscope' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Vectorscope' - Setting to default shader.
+WARNING: Shader Unsupported: 'Rust/Standard Terrain BaseMap' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain BaseMap' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain BaseMap' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Histogram' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Histogram' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Pass 'COC CALCULATION' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Pass 'COC CALCULATION' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/MultiScaleVO' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/MultiScaleVO' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/LightMeter' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/LightMeter' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Waveform' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Waveform' - Setting to default shader.
+WARNING: Shader Unsupported: 'Rust/Standard Terrain' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain' - All passes removed
+UnloadTime: 35.168000 ms
+[CoverageQueries] Disabled due to unsupported Async GPU Reads on device Null
+Floating point textures aren't supported on this device (Main Camera (UnityStandardAssets.CinematicEffects.TonemappingColorGrading))
+Plugins: Couldn't open /steamcmd/rust/RustDedicated_Data/Plugins/x86_64/libRenderer.so, error: /steamcmd/rust/RustDedicated_Data/Plugins/x86_64/libRenderer.so: undefined symbol: glXGetProcAddressARB
+Fallback handler could not load library /steamcmd/rust/RustDedicated_Data/Mono/libRenderer
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 24749.
+Total: 1119.175000 ms (FindLiveObjects: 5.625000 ms CreateObjectMapping: 6.380000 ms MarkObjects: 1105.278000 ms  DeleteObjects: 1.881000 ms)
+Asset Warmup (1/5082)
+Asset Warmup (27/5082)
+Asset Warmup (37/5082)
+Asset Warmup (88/5082)
+Asset Warmup (99/5082)
+Asset Warmup (100/5082)
+Asset Warmup (101/5082)
+Asset Warmup (102/5082)
+Asset Warmup (103/5082)
+Asset Warmup (138/5082)
+Asset Warmup (165/5082)
+Asset Warmup (175/5082)
+Asset Warmup (186/5082)
+Asset Warmup (206/5082)
+Asset Warmup (225/5082)
+Asset Warmup (230/5082)
+Asset Warmup (234/5082)
+Asset Warmup (238/5082)
+Asset Warmup (242/5082)
+Asset Warmup (243/5082)
+Asset Warmup (249/5082)
+Asset Warmup (253/5082)
+Asset Warmup (256/5082)
+Asset Warmup (264/5082)
+Asset Warmup (301/5082)
+Asset Warmup (303/5082)
+Asset Warmup (314/5082)
+Asset Warmup (337/5082)
+Asset Warmup (372/5082)
+Asset Warmup (467/5082)
+Asset Warmup (484/5082)
+Asset Warmup (502/5082)
+Asset Warmup (527/5082)
+Asset Warmup (593/5082)
+Asset Warmup (777/5082)
+Asset Warmup (818/5082)
+Asset Warmup (820/5082)
+Asset Warmup (821/5082)
+Asset Warmup (823/5082)
+Asset Warmup (849/5082)
+Asset Warmup (869/5082)
+Asset Warmup (890/5082)
+Asset Warmup (904/5082)
+Asset Warmup (1022/5082)
+Asset Warmup (1070/5082)
+Asset Warmup (1214/5082)
+Asset Warmup (1255/5082)
+Asset Warmup (1321/5082)
+Asset Warmup (1343/5082)
+Asset Warmup (1371/5082)
+Asset Warmup (1417/5082)
+Asset Warmup (1556/5082)
+Asset Warmup (1700/5082)
+Asset Warmup (1779/5082)
+Asset Warmup (1801/5082)
+Asset Warmup (1808/5082)
+Asset Warmup (1834/5082)
+Asset Warmup (1906/5082)
+Asset Warmup (1948/5082)
+Asset Warmup (1963/5082)
+Asset Warmup (1968/5082)
+Asset Warmup (1974/5082)
+Asset Warmup (1979/5082)
+Asset Warmup (2004/5082)
+Asset Warmup (2029/5082)
+Asset Warmup (2052/5082)
+Asset Warmup (2118/5082)
+Asset Warmup (2162/5082)
+Asset Warmup (2239/5082)
+Asset Warmup (2258/5082)
+Asset Warmup (2282/5082)
+Asset Warmup (2317/5082)
+Asset Warmup (2399/5082)
+Asset Warmup (2439/5082)
+Asset Warmup (2494/5082)
+Asset Warmup (2495/5082)
+Asset Warmup (2496/5082)
+Asset Warmup (2498/5082)
+Asset Warmup (2519/5082)
+Asset Warmup (2526/5082)
+Asset Warmup (2527/5082)
+Asset Warmup (2532/5082)
+Asset Warmup (2537/5082)
+Asset Warmup (2578/5082)
+Asset Warmup (2611/5082)
+Asset Warmup (2629/5082)
+Asset Warmup (2637/5082)
+Asset Warmup (2642/5082)
+Asset Warmup (2681/5082)
+Asset Warmup (2696/5082)
+Asset Warmup (2714/5082)
+Asset Warmup (2726/5082)
+Asset Warmup (2741/5082)
+Asset Warmup (2766/5082)
+Asset Warmup (2810/5082)
+Asset Warmup (2836/5082)
+Asset Warmup (2860/5082)
+Asset Warmup (2879/5082)
+Asset Warmup (2886/5082)
+Asset Warmup (2901/5082)
+Asset Warmup (2910/5082)
+Asset Warmup (2918/5082)
+Asset Warmup (2920/5082)
+Asset Warmup (2932/5082)
+Asset Warmup (2941/5082)
+Asset Warmup (2949/5082)
+Asset Warmup (2967/5082)
+Asset Warmup (2987/5082)
+Asset Warmup (3004/5082)
+Asset Warmup (3009/5082)
+Asset Warmup (3015/5082)
+Asset Warmup (3019/5082)
+Asset Warmup (3029/5082)
+Asset Warmup (3035/5082)
+Asset Warmup (3060/5082)
+Asset Warmup (3087/5082)
+Asset Warmup (3096/5082)
+Asset Warmup (3109/5082)
+Asset Warmup (3117/5082)
+Asset Warmup (3173/5082)
+Asset Warmup (3197/5082)
+Asset Warmup (3228/5082)
+Asset Warmup (3245/5082)
+Asset Warmup (3273/5082)
+Asset Warmup (3290/5082)
+Asset Warmup (3311/5082)
+Asset Warmup (3339/5082)
+Asset Warmup (3347/5082)
+Asset Warmup (3357/5082)
+Asset Warmup (3378/5082)
+Asset Warmup (3396/5082)
+Asset Warmup (3412/5082)
+Asset Warmup (3418/5082)
+Asset Warmup (3450/5082)
+Asset Warmup (3562/5082)
+Asset Warmup (3595/5082)
+Asset Warmup (3615/5082)
+Asset Warmup (3619/5082)
+Asset Warmup (3627/5082)
+Asset Warmup (3642/5082)
+Asset Warmup (3655/5082)
+Asset Warmup (3672/5082)
+Asset Warmup (3706/5082)
+Asset Warmup (3752/5082)
+Asset Warmup (3789/5082)
+Asset Warmup (3803/5082)
+Asset Warmup (3810/5082)
+Asset Warmup (3819/5082)
+Asset Warmup (3825/5082)
+Asset Warmup (3839/5082)
+Asset Warmup (3859/5082)
+Asset Warmup (3865/5082)
+Asset Warmup (3870/5082)
+Asset Warmup (3872/5082)
+Asset Warmup (3883/5082)
+Asset Warmup (3890/5082)
+Asset Warmup (3921/5082)
+Asset Warmup (3936/5082)
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Vectorscope' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Vectorscope' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Histogram' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Histogram' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/MultiScaleVO' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/MultiScaleVO' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Pass 'COC CALCULATION' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Pass 'COC CALCULATION' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/DepthOfField' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Waveform' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/Waveform' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/ScreenSpaceReflections' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/ScreenSpaceReflections' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/LightMeter' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/PostProcessing/Debug/LightMeter' - Setting to default shader.
+Asset Warmup (3939/5082)
+Asset Warmup (3994/5082)
+Asset Warmup (4010/5082)
+Asset Warmup (4024/5082)
+Asset Warmup (4036/5082)
+Asset Warmup (4062/5082)
+Asset Warmup (4080/5082)
+Asset Warmup (4098/5082)
+Asset Warmup (4109/5082)
+Asset Warmup (4121/5082)
+Asset Warmup (4169/5082)
+Asset Warmup (4206/5082)
+Asset Warmup (4248/5082)
+Asset Warmup (4271/5082)
+Asset Warmup (4280/5082)
+Asset Warmup (4302/5082)
+Asset Warmup (4344/5082)
+Asset Warmup (4375/5082)
+Asset Warmup (4387/5082)
+Asset Warmup (4428/5082)
+Asset Warmup (4468/5082)
+Asset Warmup (4514/5082)
+Asset Warmup (4538/5082)
+Asset Warmup (4573/5082)
+Asset Warmup (4595/5082)
+Asset Warmup (4655/5082)
+Asset Warmup (4697/5082)
+Asset Warmup (4743/5082)
+Asset Warmup (4799/5082)
+Asset Warmup (4849/5082)
+Asset Warmup (4880/5082)
+Asset Warmup (4936/5082)
+Asset Warmup (4962/5082)
+Asset Warmup (4969/5082)
+Asset Warmup (4984/5082)
+Asset Warmup (5009/5082)
+Asset Warmup (5025/5082)
+Asset Warmup (5045/5082)
+Asset Warmup (5058/5082)
+Asset Warmup (5082/5082)
+WebSocket RCon Started on 28016
+Generating procedural map of size 6000 with seed 2147483647
+[16.7s] Loading World
+alphamapResolution is clamped to the range of [16, 2048].
+Shader 'Nature/Terrain/Diffuse': dependency 'AddPassShader' shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+Shader 'Hidden/TerrainEngine/Splatmap/Standard-AddPass': fallback shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+WARNING: Shader Unsupported: 'Rust/Standard Blend 4-Way' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Blend 4-Way' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain Blend (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain Blend (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain Blend (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Rust/Standard Terrain Blend (Specular setup)' - All passes removed
+[78.7s] Spawning World
+[17.5s] Terrain Mesh
+[37.0s] Wire Meshes
+[55.6s] Processing World
+Generating Ocean Patrol Paths...

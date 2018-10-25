@@ -13,7 +13,7 @@ ItemDefinition
         "english": "An empty Can of Beans. Can be smelted into Metal Fragments."
     },
     "iconSprite": {
-        "instanceID": 76410
+        "instanceID": 78504
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 126758
+        "instanceID": 129830
     },
     "inventoryGrabSound": {
-        "instanceID": 126758
+        "instanceID": 129830
     },
     "inventoryDropSound": {
-        "instanceID": 118670
+        "instanceID": 121630
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -67,7 +67,7 @@ ItemDefinition
 ItemModCookable
 {
     "becomeOnCooked": {
-        "instanceID": 206960
+        "instanceID": 213080
     },
     "cookTime": 30.0,
     "amountOfBecome": 15,

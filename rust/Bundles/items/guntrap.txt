@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A shotgun trap triggered by movement, place near doorways and load with handmade shells."
     },
     "iconSprite": {
-        "instanceID": 70282
+        "instanceID": 72256
     },
     "category": 9,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -78,25 +78,25 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 500.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 250.0
         },
         {
             "itemDef": {
-                "instanceID": 1335540
+                "instanceID": 1341832
             },
             "amount": 2.0
         },
         {
             "itemDef": {
-                "instanceID": 1335548
+                "instanceID": 1341840
             },
             "amount": 2.0
         }

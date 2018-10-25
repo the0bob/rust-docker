@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Hammer, used to upgrade building materials. Right-click for the options. You can also pick up deployed objects while the hammer is equipped."
     },
     "iconSprite": {
-        "instanceID": 103480
+        "instanceID": 106082
     },
     "category": 5,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryGrabSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryDropSound": {
-        "instanceID": 126924
+        "instanceID": 129996
     },
     "physImpactSoundDef": {
-        "instanceID": 42610
+        "instanceID": 43654
     },
     "condition": {
         "enabled": false,
@@ -77,7 +77,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 100.0
         }

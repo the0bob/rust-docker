@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A makeshift Barbeque. You can cook significant amounts of food with this."
     },
     "iconSprite": {
-        "instanceID": 27722
+        "instanceID": 28268
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": true,
     "inventorySelectSound": {
-        "instanceID": 116658
+        "instanceID": 119536
     },
     "inventoryGrabSound": {
-        "instanceID": 116658
+        "instanceID": 119536
     },
     "inventoryDropSound": {
-        "instanceID": 40790
+        "instanceID": 41806
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -86,13 +86,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 40.0
         },
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 100.0
         }

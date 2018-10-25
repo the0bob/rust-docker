@@ -13,7 +13,7 @@ ItemDefinition
         "english": "An ear of corn. Eating it provides a small boost to health, hunger, and thirst."
     },
     "iconSprite": {
-        "instanceID": 165692
+        "instanceID": 170968
     },
     "category": 7,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -94,7 +94,7 @@ ItemModMenuOption
 {
     "commandName": "consume",
     "actionTarget": {
-        "instanceID": 206564
+        "instanceID": 212684
     },
     "option": {
         "name": {
@@ -106,7 +106,7 @@ ItemModMenuOption
             "english": "Eat this item."
         },
         "icon": {
-            "instanceID": 66794
+            "instanceID": 68712
         },
         "order": 0
     },
@@ -122,7 +122,7 @@ ItemModConsume
     "product": [
         {
             "itemDef": {
-                "instanceID": 206524
+                "instanceID": 212644
             },
             "amount": {
                 "serializedVersion": "2",
@@ -140,8 +140,8 @@ ItemModConsume
                     },
                     {
                         "serializedVersion": "3",
-                        "time": 0.8509908318519592,
-                        "value": 1.2628250122070313,
+                        "time": 0.9326558709144592,
+                        "value": 1.2355117797851563,
                         "inSlope": 0.6911470890045166,
                         "outSlope": 0.6911470890045166,
                         "tangentMode": 0,
@@ -151,21 +151,10 @@ ItemModConsume
                     },
                     {
                         "serializedVersion": "3",
-                        "time": 0.9515308737754822,
-                        "value": 1.9964871406555176,
+                        "time": 1.000236988067627,
+                        "value": 2.031528949737549,
                         "inSlope": 16.760295867919923,
                         "outSlope": 16.760295867919923,
-                        "tangentMode": 0,
-                        "weightedMode": 0,
-                        "inWeight": 0.3333333432674408,
-                        "outWeight": 0.3333333432674408
-                    },
-                    {
-                        "serializedVersion": "3",
-                        "time": 1.0000512599945069,
-                        "value": 3.0378940105438234,
-                        "inSlope": 2.9293434619903566,
-                        "outSlope": 2.9293434619903566,
                         "tangentMode": 0,
                         "weightedMode": 0,
                         "inWeight": 0.3333333432674408,

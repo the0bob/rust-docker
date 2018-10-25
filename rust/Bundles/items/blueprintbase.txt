@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Blueprint"
     },
     "iconSprite": {
-        "instanceID": 77966
+        "instanceID": 80078
     },
     "category": 10,
     "selectionPanel": 0,
@@ -26,13 +26,13 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 181326
+        "instanceID": 187288
     },
     "inventoryGrabSound": {
-        "instanceID": 181326
+        "instanceID": 187288
     },
     "inventoryDropSound": {
-        "instanceID": 111336
+        "instanceID": 114100
     },
     "physImpactSoundDef": {
         "instanceID": 0
@@ -68,7 +68,7 @@ ItemModMenuOption
 {
     "commandName": "study",
     "actionTarget": {
-        "instanceID": 1335506
+        "instanceID": 1341798
     },
     "option": {
         "name": {
@@ -80,7 +80,7 @@ ItemModMenuOption
             "english": "Study this blueprint and permanently learn how to craft the item. This blueprint is destroyed in the process"
         },
         "icon": {
-            "instanceID": 117062
+            "instanceID": 119942
         },
         "order": 0
     },

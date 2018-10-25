@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A locker for keeping your clothes and armor safe!"
     },
     "iconSprite": {
-        "instanceID": 51710
+        "instanceID": 53138
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 67512
+        "instanceID": 69434
     },
     "inventoryGrabSound": {
-        "instanceID": 67512
+        "instanceID": 69434
     },
     "inventoryDropSound": {
-        "instanceID": 29016
+        "instanceID": 29570
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,13 +78,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 100.0
         },
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 50.0
         }

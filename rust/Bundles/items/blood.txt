@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Used in creation of medkits."
     },
     "iconSprite": {
-        "instanceID": 174942
+        "instanceID": 180726
     },
     "category": 6,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryGrabSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryDropSound": {
-        "instanceID": 159628
+        "instanceID": 164700
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,

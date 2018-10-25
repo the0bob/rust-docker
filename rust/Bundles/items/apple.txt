@@ -13,7 +13,7 @@ ItemDefinition
         "english": "An Apple. Eating it provides a small boost to health, hunger, and thirst."
     },
     "iconSprite": {
-        "instanceID": 65040
+        "instanceID": 66924
     },
     "category": 7,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -106,7 +106,7 @@ ItemModMenuOption
 {
     "commandName": "consume",
     "actionTarget": {
-        "instanceID": 1607004
+        "instanceID": 1612830
     },
     "option": {
         "name": {
@@ -118,7 +118,7 @@ ItemModMenuOption
             "english": "Eat this item."
         },
         "icon": {
-            "instanceID": 66794
+            "instanceID": 68712
         },
         "order": 0
     },

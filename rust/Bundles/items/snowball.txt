@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A snowball, throw it!"
     },
     "iconSprite": {
-        "instanceID": 42370
+        "instanceID": 43414
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryGrabSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryDropSound": {
-        "instanceID": 126924
+        "instanceID": 129996
     },
     "physImpactSoundDef": {
-        "instanceID": 65360
+        "instanceID": 67248
     },
     "condition": {
         "enabled": true,

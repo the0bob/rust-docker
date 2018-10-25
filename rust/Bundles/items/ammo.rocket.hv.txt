@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Fast moving rocket ammunition. Short to medium range self-propelled, unguided rocket which deals large splash damage on impact but less damage than a normal rocket."
     },
     "iconSprite": {
-        "instanceID": 73896
+        "instanceID": 75956
     },
     "category": 8,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 95148
+        "instanceID": 97532
     },
     "inventoryGrabSound": {
-        "instanceID": 95148
+        "instanceID": 97532
     },
     "inventoryDropSound": {
-        "instanceID": 40790
+        "instanceID": 41806
     },
     "physImpactSoundDef": {
-        "instanceID": 101862
+        "instanceID": 104402
     },
     "condition": {
         "enabled": false,
@@ -91,19 +91,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1335544
+                "instanceID": 1341836
             },
             "amount": 1.0
         },
         {
             "itemDef": {
-                "instanceID": 1338224
+                "instanceID": 1344546
             },
             "amount": 100.0
         },
         {
             "itemDef": {
-                "instanceID": 1796046
+                "instanceID": 1802020
             },
             "amount": 2.0
         }

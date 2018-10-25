@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A barricade made out of Stones."
     },
     "iconSprite": {
-        "instanceID": 93678
+        "instanceID": 96062
     },
     "category": 1,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 184988
+        "instanceID": 190960
     },
     "inventoryGrabSound": {
-        "instanceID": 184988
+        "instanceID": 190960
     },
     "inventoryDropSound": {
-        "instanceID": 69556
+        "instanceID": 71520
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,7 +78,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206990
+                "instanceID": 213110
             },
             "amount": 200.0
         }

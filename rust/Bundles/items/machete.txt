@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A brutal weapon with good range."
     },
     "iconSprite": {
-        "instanceID": 29264
+        "instanceID": 29848
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 94164
+        "instanceID": 96550
     },
     "inventoryGrabSound": {
-        "instanceID": 94164
+        "instanceID": 96550
     },
     "inventoryDropSound": {
-        "instanceID": 136916
+        "instanceID": 141280
     },
     "physImpactSoundDef": {
-        "instanceID": 49582
+        "instanceID": 50832
     },
     "condition": {
         "enabled": true,
@@ -77,13 +77,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 100.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 40.0
         }

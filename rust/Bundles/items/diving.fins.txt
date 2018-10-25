@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Diving Fins which greatly increase underwater movement"
     },
     "iconSprite": {
-        "instanceID": 186260
+        "instanceID": 192250
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryGrabSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryDropSound": {
-        "instanceID": 41786
+        "instanceID": 42826
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -73,14 +73,16 @@ ItemModWearable
         "instanceID": 0
     },
     "armorProperties": {
-        "instanceID": 141320
+        "instanceID": 145808
     },
     "movementProperties": {
-        "instanceID": 73180
+        "instanceID": 75226
     },
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }

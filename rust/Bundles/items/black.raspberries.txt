@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Black Raspberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst."
     },
     "iconSprite": {
-        "instanceID": 76388
+        "instanceID": 78482
     },
     "category": 7,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryGrabSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryDropSound": {
-        "instanceID": 159628
+        "instanceID": 164700
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -112,7 +112,7 @@ ItemModMenuOption
 {
     "commandName": "consume",
     "actionTarget": {
-        "instanceID": 1796836
+        "instanceID": 1802856
     },
     "option": {
         "name": {
@@ -124,7 +124,7 @@ ItemModMenuOption
             "english": "Eat this item."
         },
         "icon": {
-            "instanceID": 66794
+            "instanceID": 68712
         },
         "order": 0
     },

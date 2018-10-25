@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Raw Oil out of the ground, must be refined in a refinery to be used."
     },
     "iconSprite": {
-        "instanceID": 143828
+        "instanceID": 148352
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 37582
+        "instanceID": 38526
     },
     "condition": {
         "enabled": false,
@@ -67,7 +67,7 @@ ItemDefinition
 ItemModCookable
 {
     "becomeOnCooked": {
-        "instanceID": 1336844
+        "instanceID": 1343144
     },
     "cookTime": 10.0,
     "amountOfBecome": 3,

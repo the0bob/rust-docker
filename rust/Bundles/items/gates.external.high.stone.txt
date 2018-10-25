@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A high stone gate, allowing access in and out of your compound."
     },
     "iconSprite": {
-        "instanceID": 100706
+        "instanceID": 103238
     },
     "category": 1,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 4,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 184988
+        "instanceID": 190960
     },
     "inventoryGrabSound": {
-        "instanceID": 184988
+        "instanceID": 190960
     },
     "inventoryDropSound": {
-        "instanceID": 69556
+        "instanceID": 71520
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,13 +78,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206990
+                "instanceID": 213110
             },
             "amount": 3000.0
         },
         {
             "itemDef": {
-                "instanceID": 1335540
+                "instanceID": 1341832
             },
             "amount": 10.0
         }

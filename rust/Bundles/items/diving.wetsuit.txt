@@ -6,10 +6,10 @@ ItemModWearable
         "guid": "a44e7b099780a804c95c1c6c8da30ab3"
     },
     "protectionProperties": {
-        "instanceID": 96518
+        "instanceID": 98918
     },
     "armorProperties": {
-        "instanceID": 163346
+        "instanceID": 168544
     },
     "movementProperties": {
         "instanceID": 0
@@ -17,6 +17,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": "fed838d79b819ab4caede47db2514ab8"
     }
@@ -35,7 +37,7 @@ ItemDefinition
         "english": "A Wetsuit providing protection from frigid waters."
     },
     "iconSprite": {
-        "instanceID": 84432
+        "instanceID": 86664
     },
     "category": 4,
     "selectionPanel": 0,
@@ -48,16 +50,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 179972
+        "instanceID": 185904
     },
     "inventoryGrabSound": {
-        "instanceID": 179972
+        "instanceID": 185904
     },
     "inventoryDropSound": {
-        "instanceID": 26580
+        "instanceID": 27124
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,

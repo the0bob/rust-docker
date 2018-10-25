@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Get into the christmas spirit with this holiday door wreath."
     },
     "iconSprite": {
-        "instanceID": 146784
+        "instanceID": 151394
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -50,7 +50,7 @@ ItemDefinition
     "hidden": false,
     "flags": 0,
     "steamItem": {
-        "instanceID": 109552
+        "instanceID": 112272
     },
     "Parent": {
         "instanceID": 0
@@ -86,7 +86,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 20.0
         }

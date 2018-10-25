@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Lighter, faster arrow that deals less damage."
     },
     "iconSprite": {
-        "instanceID": 139344
+        "instanceID": 143758
     },
     "category": 8,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 49424
+        "instanceID": 50666
     },
     "inventoryGrabSound": {
-        "instanceID": 49424
+        "instanceID": 50666
     },
     "inventoryDropSound": {
-        "instanceID": 32810
+        "instanceID": 33494
     },
     "physImpactSoundDef": {
-        "instanceID": 97428
+        "instanceID": 99838
     },
     "condition": {
         "enabled": false,
@@ -91,13 +91,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 40.0
         },
         {
             "itemDef": {
-                "instanceID": 206990
+                "instanceID": 213110
             },
             "amount": 15.0
         }

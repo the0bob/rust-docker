@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A suit of armor made of bones."
     },
     "iconSprite": {
-        "instanceID": 162316
+        "instanceID": 167478
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "18b2d4398e33cb945be3825b1cf41c34"
     },
     "protectionProperties": {
-        "instanceID": 109240
+        "instanceID": 111956
     },
     "armorProperties": {
-        "instanceID": 89002
+        "instanceID": 91290
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": "4157111476fb90447864592f7a21bcfd"
     }
@@ -91,13 +93,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 15.0
         },
         {
             "itemDef": {
-                "instanceID": 206896
+                "instanceID": 213016
             },
             "amount": 150.0
         }

@@ -5,15 +5,15 @@ ItemDefinition
     "itemid": 1366282552,
     "shortname": "burlap.gloves",
     "displayName": {
-        "token": "burlap.gloves",
-        "english": "Leather Gloves"
+        "token": "burlap.gloves.new",
+        "english": "Burlap Gloves"
     },
     "displayDescription": {
-        "token": "burlap.gloves.desc",
-        "english": "Gloves made out of leather, offers a small amount of protection to the upper body."
+        "token": "burlap.gloves.desc.new",
+        "english": "Basic burlap gloves, offering protection from the elements"
     },
     "iconSprite": {
-        "instanceID": 32644
+        "instanceID": 151008
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryGrabSound": {
-        "instanceID": 64896
+        "instanceID": 66778
     },
     "inventoryDropSound": {
-        "instanceID": 41786
+        "instanceID": 42826
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -56,24 +56,24 @@ ItemDefinition
         "instanceID": 0
     },
     "worldModelPrefab": {
-        "guid": "631903483cf843f4fa18c7705b714d44"
+        "guid": "f2d4121ad267fde4c8ae5aa53098665a"
     },
     "Traits": 8,
     "panel": {
-        "instanceID": 54346
+        "instanceID": 0
     }
 }
 
 ItemModWearable
 {
     "entityPrefab": {
-        "guid": "6141da7a13b4dde4ebb68bce6d069490"
+        "guid": "75303c6000b93ee46b13e7c1f242f013"
     },
     "protectionProperties": {
-        "instanceID": 116304
+        "instanceID": 119170
     },
     "armorProperties": {
-        "instanceID": 70176
+        "instanceID": 72150
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,8 +81,10 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
-        "guid": "3dd8a62362610a943962daa023461789"
+        "guid": "9305d07f8e215854d97668ba095eae6d"
     }
 }
 
@@ -91,18 +93,12 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1338136
+                "instanceID": 212708
             },
-            "amount": 20.0
-        },
-        {
-            "itemDef": {
-                "instanceID": 1338048
-            },
-            "amount": 1.0
+            "amount": 5.0
         }
     ],
-    "defaultBlueprint": false,
+    "defaultBlueprint": true,
     "userCraftable": true,
     "isResearchable": true,
     "rarity": 1,

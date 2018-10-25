@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A powerful flashlight which illuminates your surroundings and can be used as a weapon."
     },
     "iconSprite": {
-        "instanceID": 63750
+        "instanceID": 65624
     },
     "category": 5,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryGrabSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryDropSound": {
-        "instanceID": 149210
+        "instanceID": 153888
     },
     "physImpactSoundDef": {
-        "instanceID": 42610
+        "instanceID": 43654
     },
     "condition": {
         "enabled": true,
@@ -77,7 +77,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 30.0
         }

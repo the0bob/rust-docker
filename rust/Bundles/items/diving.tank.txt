@@ -13,7 +13,7 @@ ItemDefinition
         "english": "An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench."
     },
     "iconSprite": {
-        "instanceID": 63898
+        "instanceID": 65772
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 112192
+        "instanceID": 114982
     },
     "inventoryGrabSound": {
-        "instanceID": 112192
+        "instanceID": 114982
     },
     "inventoryDropSound": {
-        "instanceID": 157366
+        "instanceID": 162396
     },
     "physImpactSoundDef": {
-        "instanceID": 37582
+        "instanceID": 38526
     },
     "condition": {
         "enabled": true,
@@ -73,7 +73,7 @@ ItemModWearable
         "instanceID": 0
     },
     "armorProperties": {
-        "instanceID": 108386
+        "instanceID": 111092
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }

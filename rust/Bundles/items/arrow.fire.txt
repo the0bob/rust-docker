@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A fuel soaked arrow, ignite it by aiming into a fire source."
     },
     "iconSprite": {
-        "instanceID": 76854
+        "instanceID": 78956
     },
     "category": 8,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 49424
+        "instanceID": 50666
     },
     "inventoryGrabSound": {
-        "instanceID": 49424
+        "instanceID": 50666
     },
     "inventoryDropSound": {
-        "instanceID": 32810
+        "instanceID": 33494
     },
     "physImpactSoundDef": {
-        "instanceID": 97428
+        "instanceID": 99838
     },
     "condition": {
         "enabled": false,
@@ -71,7 +71,7 @@ ItemModProjectileSpawn
     },
     "mods": [
         {
-            "instanceID": 1337126
+            "instanceID": 1343426
         }
     ],
     "ammoType": 8,
@@ -116,19 +116,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 20.0
         },
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 2.0
         },
         {
             "itemDef": {
-                "instanceID": 1336844
+                "instanceID": 1343144
             },
             "amount": 10.0
         }

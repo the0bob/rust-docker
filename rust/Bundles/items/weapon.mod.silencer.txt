@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash."
     },
     "iconSprite": {
-        "instanceID": 164822
+        "instanceID": 170096
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 161380
+        "instanceID": 166502
     },
     "inventoryGrabSound": {
-        "instanceID": 161380
+        "instanceID": 166502
     },
     "inventoryDropSound": {
-        "instanceID": 175542
+        "instanceID": 181346
     },
     "physImpactSoundDef": {
-        "instanceID": 121694
+        "instanceID": 124728
     },
     "condition": {
         "enabled": true,
@@ -69,7 +69,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 5.0
         }

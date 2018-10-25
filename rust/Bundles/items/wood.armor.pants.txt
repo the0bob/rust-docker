@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A shoddy piece of leg armor made from Wood and rope."
     },
     "iconSprite": {
-        "instanceID": 67498
+        "instanceID": 69420
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 105004
+        "instanceID": 107626
     },
     "condition": {
         "enabled": true,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "1d98a309ecc52604386b13ae23b3cdcc"
     },
     "protectionProperties": {
-        "instanceID": 162886
+        "instanceID": 168076
     },
     "armorProperties": {
-        "instanceID": 141320
+        "instanceID": 145808
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,13 +93,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1335548
+                "instanceID": 1341840
             },
             "amount": 1.0
         },
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 200.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A leather cap with a flashlight attached. It uses Low Grade Fuel and can be activated from the inventory."
     },
     "iconSprite": {
-        "instanceID": 91108
+        "instanceID": 93442
     },
     "category": 4,
     "selectionPanel": 1,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "2d76199dcac8b254e892125f034e20a0"
     },
     "protectionProperties": {
-        "instanceID": 143682
+        "instanceID": 148202
     },
     "armorProperties": {
-        "instanceID": 108386
+        "instanceID": 111092
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": true,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,19 +93,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 15.0
         },
         {
             "itemDef": {
-                "instanceID": 1336844
+                "instanceID": 1343144
             },
             "amount": 10.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 50.0
         }
@@ -129,7 +131,7 @@ ItemModContainer
     "containerFlags": 8,
     "onlyAllowedContents": 1,
     "onlyAllowedItemType": {
-        "instanceID": 1336844
+        "instanceID": 1343144
     },
     "availableSlots": [],
     "openInDeployed": true,
@@ -137,7 +139,7 @@ ItemModContainer
     "defaultContents": [
         {
             "itemDef": {
-                "instanceID": 1336844
+                "instanceID": 1343144
             },
             "amount": 10.0
         }

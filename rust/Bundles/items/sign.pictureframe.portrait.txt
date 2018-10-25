@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A portrait oriented canvas for artists paintings."
     },
     "iconSprite": {
-        "instanceID": 118138
+        "instanceID": 121020
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 100104
+        "instanceID": 102632
     },
     "inventoryGrabSound": {
-        "instanceID": 100104
+        "instanceID": 102632
     },
     "inventoryDropSound": {
-        "instanceID": 186900
+        "instanceID": 192912
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -50,7 +50,7 @@ ItemDefinition
     "hidden": false,
     "flags": 0,
     "steamItem": {
-        "instanceID": 58080
+        "instanceID": 59850
     },
     "Parent": {
         "instanceID": 0
@@ -77,13 +77,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 150.0
         },
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 50.0
         }

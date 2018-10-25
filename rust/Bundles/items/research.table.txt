@@ -13,7 +13,7 @@ ItemDefinition
         "english": "You can use this table to learn how to permanently craft items you have found in exchange for scrap."
     },
     "iconSprite": {
-        "instanceID": 133434
+        "instanceID": 136612
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,13 +78,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 200.0
         },
         {
             "itemDef": {
-                "instanceID": 543694
+                "instanceID": 549814
             },
             "amount": 75.0
         }

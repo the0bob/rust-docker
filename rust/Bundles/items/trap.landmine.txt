@@ -13,7 +13,7 @@ ItemDefinition
         "english": "An old military Landmine. If you stand on one, you can ask a friend to disarm it before it explodes."
     },
     "iconSprite": {
-        "instanceID": 161556
+        "instanceID": 166678
     },
     "category": 9,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 131044
+        "instanceID": 134146
     },
     "inventoryGrabSound": {
-        "instanceID": 131044
+        "instanceID": 134146
     },
     "inventoryDropSound": {
-        "instanceID": 176106
+        "instanceID": 181930
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -78,13 +78,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 50.0
         },
         {
             "itemDef": {
-                "instanceID": 1338224
+                "instanceID": 1344546
             },
             "amount": 100.0
         }

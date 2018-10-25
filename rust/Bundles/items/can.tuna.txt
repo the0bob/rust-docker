@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Chunked tuna found as loot. Eating it provides a small boost to health, hunger, and thirst."
     },
     "iconSprite": {
-        "instanceID": 32070
+        "instanceID": 32734
     },
     "category": 7,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 108640
+        "instanceID": 111348
     },
     "inventoryGrabSound": {
-        "instanceID": 108640
+        "instanceID": 111348
     },
     "inventoryDropSound": {
-        "instanceID": 45354
+        "instanceID": 46428
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -73,7 +73,7 @@ ItemModConsume
     "product": [
         {
             "itemDef": {
-                "instanceID": 1338272
+                "instanceID": 1344588
             },
             "amount": {
                 "serializedVersion": "2",
@@ -142,7 +142,7 @@ ItemModMenuOption
 {
     "commandName": "consume",
     "actionTarget": {
-        "instanceID": 1337290
+        "instanceID": 1343590
     },
     "option": {
         "name": {
@@ -154,7 +154,7 @@ ItemModMenuOption
             "english": "Eat this item."
         },
         "icon": {
-            "instanceID": 66794
+            "instanceID": 68712
         },
         "order": 0
     },

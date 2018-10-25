@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A scrap of paper for leaving notes."
     },
     "iconSprite": {
-        "instanceID": 56888
+        "instanceID": 58620
     },
     "category": 10,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 181326
+        "instanceID": 187288
     },
     "inventoryGrabSound": {
-        "instanceID": 181326
+        "instanceID": 187288
     },
     "inventoryDropSound": {
-        "instanceID": 111336
+        "instanceID": 114100
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -60,7 +60,7 @@ ItemDefinition
     },
     "Traits": 8,
     "panel": {
-        "instanceID": 172018
+        "instanceID": 177400
     }
 }
 
@@ -69,7 +69,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 10.0
         }

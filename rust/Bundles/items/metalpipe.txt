@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Metal Pipe."
     },
     "iconSprite": {
-        "instanceID": 107456
+        "instanceID": 110148
     },
     "category": 13,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 95148
+        "instanceID": 97532
     },
     "inventoryGrabSound": {
-        "instanceID": 95148
+        "instanceID": 97532
     },
     "inventoryDropSound": {
-        "instanceID": 40790
+        "instanceID": 41806
     },
     "physImpactSoundDef": {
-        "instanceID": 101862
+        "instanceID": 104402
     },
     "condition": {
         "enabled": false,
@@ -69,13 +69,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 2.0
         },
         {
             "itemDef": {
-                "instanceID": 543694
+                "instanceID": 549814
             },
             "amount": 20.0
         }

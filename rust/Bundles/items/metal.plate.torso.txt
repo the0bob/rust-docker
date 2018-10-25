@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A metal plate covering your torso. Can deflect attacks."
     },
     "iconSprite": {
-        "instanceID": 180300
+        "instanceID": 186240
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 4,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 67512
+        "instanceID": 69434
     },
     "inventoryGrabSound": {
-        "instanceID": 67512
+        "instanceID": 69434
     },
     "inventoryDropSound": {
-        "instanceID": 29016
+        "instanceID": 29570
     },
     "physImpactSoundDef": {
-        "instanceID": 148704
+        "instanceID": 153384
     },
     "condition": {
         "enabled": true,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "886a60aea1199f64da0fdb1b8bcfeaed"
     },
     "protectionProperties": {
-        "instanceID": 133880
+        "instanceID": 137062
     },
     "armorProperties": {
-        "instanceID": 70176
+        "instanceID": 72150
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,19 +93,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1338136
+                "instanceID": 1344458
             },
             "amount": 50.0
         },
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 25.0
         },
         {
             "itemDef": {
-                "instanceID": 1338048
+                "instanceID": 1344370
             },
             "amount": 8.0
         }

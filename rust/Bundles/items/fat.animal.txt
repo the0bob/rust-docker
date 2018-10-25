@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Harvested from animals, combine with cloth to create a low quality fuel source."
     },
     "iconSprite": {
-        "instanceID": 169404
+        "instanceID": 174738
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryGrabSound": {
-        "instanceID": 72946
+        "instanceID": 74990
     },
     "inventoryDropSound": {
-        "instanceID": 159628
+        "instanceID": 164700
     },
     "physImpactSoundDef": {
-        "instanceID": 67782
+        "instanceID": 69718
     },
     "condition": {
         "enabled": false,

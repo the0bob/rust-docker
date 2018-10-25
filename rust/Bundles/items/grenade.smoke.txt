@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Produces a large cloud of opaque greyish white smoke."
     },
     "iconSprite": {
-        "instanceID": 74556
+        "instanceID": 76632
     },
     "category": 5,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 4,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 161380
+        "instanceID": 166502
     },
     "inventoryGrabSound": {
-        "instanceID": 161380
+        "instanceID": 166502
     },
     "inventoryDropSound": {
-        "instanceID": 175542
+        "instanceID": 181346
     },
     "physImpactSoundDef": {
-        "instanceID": 56904
+        "instanceID": 58636
     },
     "condition": {
         "enabled": false,

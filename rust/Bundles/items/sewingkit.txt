@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Sewing kit. Used to make advanced clothing."
     },
     "iconSprite": {
-        "instanceID": 96262
+        "instanceID": 98658
     },
     "category": 13,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 155640
+        "instanceID": 160644
     },
     "inventoryGrabSound": {
-        "instanceID": 155640
+        "instanceID": 160644
     },
     "inventoryDropSound": {
-        "instanceID": 79942
+        "instanceID": 82090
     },
     "physImpactSoundDef": {
-        "instanceID": 45166
+        "instanceID": 46228
     },
     "condition": {
         "enabled": false,
@@ -69,13 +69,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 20.0
         },
         {
             "itemDef": {
-                "instanceID": 1335548
+                "instanceID": 1341840
             },
             "amount": 3.0
         }

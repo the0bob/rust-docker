@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Extremely strong door with a hatch to see and shoot out of."
     },
     "iconSprite": {
-        "instanceID": 127088
+        "instanceID": 130160
     },
     "category": 1,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 4,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 67512
+        "instanceID": 69434
     },
     "inventoryGrabSound": {
-        "instanceID": 67512
+        "instanceID": 69434
     },
     "inventoryDropSound": {
-        "instanceID": 29016
+        "instanceID": 29570
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": true,
@@ -78,13 +78,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 25.0
         },
         {
             "itemDef": {
-                "instanceID": 1335540
+                "instanceID": 1341832
             },
             "amount": 5.0
         }

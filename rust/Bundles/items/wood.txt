@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires."
     },
     "iconSprite": {
-        "instanceID": 122538
+        "instanceID": 125576
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryGrabSound": {
-        "instanceID": 77194
+        "instanceID": 79304
     },
     "inventoryDropSound": {
-        "instanceID": 55220
+        "instanceID": 56712
     },
     "physImpactSoundDef": {
-        "instanceID": 105004
+        "instanceID": 107626
     },
     "condition": {
         "enabled": false,
@@ -68,7 +68,7 @@ ItemModBurnable
 {
     "fuelAmount": 10.0,
     "byproductItem": {
-        "instanceID": 207104
+        "instanceID": 213224
     },
     "byproductAmount": 1,
     "byproductChance": 0.25

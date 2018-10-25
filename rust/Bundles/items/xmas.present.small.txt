@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A small stocking stuffer present, Collect 10 to upgrade to a larger present."
     },
     "iconSprite": {
-        "instanceID": 126792
+        "instanceID": 129864
     },
     "category": 10,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -70,7 +70,7 @@ ItemModUpgrade
     "upgradeSuccessChance": 1.0,
     "numToLoseOnFail": 10,
     "upgradedItem": {
-        "instanceID": 2087790
+        "instanceID": 2162920
     },
     "numUpgradedItem": 1,
     "successEffect": {
@@ -84,10 +84,12 @@ ItemModUpgrade
 ItemModUnwrap
 {
     "revealList": {
-        "instanceID": 171862
+        "instanceID": 177242
     },
     "successEffect": {
         "guid": "29286773a3f67a14889865e55e599365"
-    }
+    },
+    "minTries": 1,
+    "maxTries": 1
 }
 

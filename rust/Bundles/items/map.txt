@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Helps you figure out where you are. You can annotate the map by right-clicking and drawing on it.\r\n\r\nDrag the map into your belt bar to make it active. You will then be able to view the map by holding down the map button (G by default)."
     },
     "iconSprite": {
-        "instanceID": 9560
+        "instanceID": 10034
     },
     "category": 2,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 181326
+        "instanceID": 187288
     },
     "inventoryGrabSound": {
-        "instanceID": 181326
+        "instanceID": 187288
     },
     "inventoryDropSound": {
-        "instanceID": 111336
+        "instanceID": 114100
     },
     "physImpactSoundDef": {
-        "instanceID": 144302
+        "instanceID": 148834
     },
     "condition": {
         "enabled": false,
@@ -69,7 +69,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 100.0
         }

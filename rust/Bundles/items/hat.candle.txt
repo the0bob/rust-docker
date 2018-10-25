@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A hat with a candle on top. You can turn the candle on in your inventory."
     },
     "iconSprite": {
-        "instanceID": 168144
+        "instanceID": 173458
     },
     "category": 4,
     "selectionPanel": 1,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "2a2f7a92b67065d40ae7098cdf2a8049"
     },
     "protectionProperties": {
-        "instanceID": 151288
+        "instanceID": 156070
     },
     "armorProperties": {
-        "instanceID": 108386
+        "instanceID": 111092
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": true,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,13 +93,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 15.0
         },
         {
             "itemDef": {
-                "instanceID": 1336844
+                "instanceID": 1343144
             },
             "amount": 5.0
         }
@@ -123,7 +125,7 @@ ItemModContainer
     "containerFlags": 8,
     "onlyAllowedContents": 1,
     "onlyAllowedItemType": {
-        "instanceID": 1336844
+        "instanceID": 1343144
     },
     "availableSlots": [],
     "openInDeployed": true,
@@ -131,7 +133,7 @@ ItemModContainer
     "defaultContents": [
         {
             "itemDef": {
-                "instanceID": 1336844
+                "instanceID": 1343144
             },
             "amount": 5.0
         }

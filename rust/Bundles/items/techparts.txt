@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A collection of random tech parts."
     },
     "iconSprite": {
-        "instanceID": 104204
+        "instanceID": 106818
     },
     "category": 13,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 4,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryGrabSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryDropSound": {
-        "instanceID": 149210
+        "instanceID": 153888
     },
     "physImpactSoundDef": {
-        "instanceID": 121694
+        "instanceID": 124728
     },
     "condition": {
         "enabled": false,
@@ -69,13 +69,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 2.0
         },
         {
             "itemDef": {
-                "instanceID": 543694
+                "instanceID": 549814
             },
             "amount": 100.0
         }

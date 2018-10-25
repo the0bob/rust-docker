@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Coffee Can Helmet. It provides a level of regional protection from inflicted damage."
     },
     "iconSprite": {
-        "instanceID": 180116
+        "instanceID": 186050
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 112192
+        "instanceID": 114982
     },
     "inventoryGrabSound": {
-        "instanceID": 112192
+        "instanceID": 114982
     },
     "inventoryDropSound": {
-        "instanceID": 157366
+        "instanceID": 162396
     },
     "physImpactSoundDef": {
-        "instanceID": 37582
+        "instanceID": 38526
     },
     "condition": {
         "enabled": true,
@@ -70,10 +70,10 @@ ItemModWearable
         "guid": "2f6f32fafdb0adc409d493c497c4d862"
     },
     "protectionProperties": {
-        "instanceID": 13612
+        "instanceID": 14138
     },
     "armorProperties": {
-        "instanceID": 108386
+        "instanceID": 111092
     },
     "movementProperties": {
         "instanceID": 0
@@ -81,6 +81,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,19 +93,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206588
+                "instanceID": 212708
             },
             "amount": 15.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 60.0
         },
         {
             "itemDef": {
-                "instanceID": 1338048
+                "instanceID": 1344370
             },
             "amount": 1.0
         }

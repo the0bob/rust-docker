@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A powerful 2-handed melee weapon with high damage."
     },
     "iconSprite": {
-        "instanceID": 163912
+        "instanceID": 169126
     },
     "category": 0,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryGrabSound": {
-        "instanceID": 30884
+        "instanceID": 31534
     },
     "inventoryDropSound": {
-        "instanceID": 126924
+        "instanceID": 129996
     },
     "physImpactSoundDef": {
-        "instanceID": 49582
+        "instanceID": 50832
     },
     "condition": {
         "enabled": true,
@@ -77,13 +77,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 50.0
         },
         {
             "itemDef": {
-                "instanceID": 1338232
+                "instanceID": 1344548
             },
             "amount": 1.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A large jerry can for water."
     },
     "iconSprite": {
-        "instanceID": 180916
+        "instanceID": 186878
     },
     "category": 5,
     "selectionPanel": 1,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryGrabSound": {
-        "instanceID": 41212
+        "instanceID": 42230
     },
     "inventoryDropSound": {
-        "instanceID": 149210
+        "instanceID": 153888
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -79,7 +79,7 @@ ItemModContainer
     "defaultContents": [
         {
             "itemDef": {
-                "instanceID": 1338238
+                "instanceID": 1344554
             },
             "amount": 4000.0
         }
@@ -97,7 +97,7 @@ ItemModMenuOption
 {
     "commandName": "consumecontents",
     "actionTarget": {
-        "instanceID": 1337040
+        "instanceID": 1343334
     },
     "option": {
         "name": {
@@ -109,7 +109,7 @@ ItemModMenuOption
             "english": ""
         },
         "icon": {
-            "instanceID": 64648
+            "instanceID": 66528
         },
         "order": 0
     },
@@ -129,7 +129,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 100.0
         }

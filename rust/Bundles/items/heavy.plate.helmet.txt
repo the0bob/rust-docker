@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Offers superior protection at the cost of reduced vision and movement speed."
     },
     "iconSprite": {
-        "instanceID": 105662
+        "instanceID": 108288
     },
     "category": 4,
     "selectionPanel": 0,
@@ -26,13 +26,13 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 67512
+        "instanceID": 69434
     },
     "inventoryGrabSound": {
-        "instanceID": 67512
+        "instanceID": 69434
     },
     "inventoryDropSound": {
-        "instanceID": 29016
+        "instanceID": 29570
     },
     "physImpactSoundDef": {
         "instanceID": 0
@@ -70,17 +70,19 @@ ItemModWearable
         "guid": "86e51ea18e1768b478673e9171d12feb"
     },
     "protectionProperties": {
-        "instanceID": 100524
+        "instanceID": 103056
     },
     "armorProperties": {
-        "instanceID": 108386
+        "instanceID": 111092
     },
     "movementProperties": {
-        "instanceID": 172716
+        "instanceID": 178124
     },
     "occlusionType": 3,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": ""
     }
@@ -91,13 +93,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1335538
+                "instanceID": 1341830
             },
             "amount": 1.0
         },
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 4.0
         }

@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Sheet metal scraps."
     },
     "iconSprite": {
-        "instanceID": 72036
+        "instanceID": 74074
     },
     "category": 13,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 131044
+        "instanceID": 134146
     },
     "inventoryGrabSound": {
-        "instanceID": 131044
+        "instanceID": 134146
     },
     "inventoryDropSound": {
-        "instanceID": 176106
+        "instanceID": 181930
     },
     "physImpactSoundDef": {
-        "instanceID": 39754
+        "instanceID": 40766
     },
     "condition": {
         "enabled": false,
@@ -69,19 +69,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 200.0
         },
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 2.0
         },
         {
             "itemDef": {
-                "instanceID": 543694
+                "instanceID": 549814
             },
             "amount": 30.0
         }

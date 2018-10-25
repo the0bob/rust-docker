@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Taking these pills will lower your radiation level. WARNING: May cause extreme dehydration."
     },
     "iconSprite": {
-        "instanceID": 119060
+        "instanceID": 122022
     },
     "category": 6,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -100,7 +100,7 @@ ItemModMenuOption
 {
     "commandName": "consume",
     "actionTarget": {
-        "instanceID": 1336986
+        "instanceID": 1343288
     },
     "option": {
         "name": {
@@ -112,7 +112,7 @@ ItemModMenuOption
             "english": "Consume these pills"
         },
         "icon": {
-            "instanceID": 153032
+            "instanceID": 157844
         },
         "order": 0
     },

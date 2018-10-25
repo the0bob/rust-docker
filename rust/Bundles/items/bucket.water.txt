@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A bucket for transporting water or other liquids."
     },
     "iconSprite": {
-        "instanceID": 95362
+        "instanceID": 97748
     },
     "category": 5,
     "selectionPanel": 1,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 1,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 112192
+        "instanceID": 114982
     },
     "inventoryGrabSound": {
-        "instanceID": 112192
+        "instanceID": 114982
     },
     "inventoryDropSound": {
-        "instanceID": 157366
+        "instanceID": 162396
     },
     "physImpactSoundDef": {
-        "instanceID": 37582
+        "instanceID": 38526
     },
     "condition": {
         "enabled": true,
@@ -77,7 +77,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 20.0
         }
@@ -115,7 +115,7 @@ ItemModMenuOption
 {
     "commandName": "consumecontents",
     "actionTarget": {
-        "instanceID": 1606722
+        "instanceID": 1612548
     },
     "option": {
         "name": {
@@ -127,7 +127,7 @@ ItemModMenuOption
             "english": ""
         },
         "icon": {
-            "instanceID": 64648
+            "instanceID": 66528
         },
         "order": 0
     },

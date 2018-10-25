@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A metal spring. Used to provide motion or resistance in objects."
     },
     "iconSprite": {
-        "instanceID": 105112
+        "instanceID": 107734
     },
     "category": 13,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 111076
+        "instanceID": 113836
     },
     "inventoryGrabSound": {
-        "instanceID": 111076
+        "instanceID": 113836
     },
     "inventoryDropSound": {
-        "instanceID": 91794
+        "instanceID": 94132
     },
     "physImpactSoundDef": {
-        "instanceID": 43252
+        "instanceID": 44302
     },
     "condition": {
         "enabled": false,
@@ -69,13 +69,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 2.0
         },
         {
             "itemDef": {
-                "instanceID": 543694
+                "instanceID": 549814
             },
             "amount": 50.0
         }

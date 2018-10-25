@@ -6,10 +6,10 @@ ItemModWearable
         "guid": "d84428d1886be124baca7086c912ca7b"
     },
     "protectionProperties": {
-        "instanceID": 76898
+        "instanceID": 79004
     },
     "armorProperties": {
-        "instanceID": 163346
+        "instanceID": 168544
     },
     "movementProperties": {
         "instanceID": 0
@@ -17,6 +17,8 @@ ItemModWearable
     "occlusionType": 64,
     "blocksAiming": false,
     "emissive": false,
+    "accuracyBonus": 0.0,
+    "blocksEquipping": false,
     "viewmodelAddition": {
         "guid": "9c514d9613d05b144b65f3877ea10a54"
     }
@@ -27,19 +29,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1338454
+                "instanceID": 1344770
             },
             "amount": 5.0
         },
         {
             "itemDef": {
-                "instanceID": 1338048
+                "instanceID": 1344370
             },
             "amount": 2.0
         },
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 8.0
         }
@@ -71,7 +73,7 @@ ItemDefinition
         "english": "A hazmat suit made from radiation resistant rubber."
     },
     "iconSprite": {
-        "instanceID": 46108
+        "instanceID": 47250
     },
     "category": 4,
     "selectionPanel": 0,
@@ -84,16 +86,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 179972
+        "instanceID": 185904
     },
     "inventoryGrabSound": {
-        "instanceID": 179972
+        "instanceID": 185904
     },
     "inventoryDropSound": {
-        "instanceID": 26580
+        "instanceID": 27124
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,

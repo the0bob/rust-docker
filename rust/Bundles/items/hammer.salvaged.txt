@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Hammer made from a bunch of other crap."
     },
     "iconSprite": {
-        "instanceID": 27884
+        "instanceID": 28430
     },
     "category": 5,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 2,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 94164
+        "instanceID": 96550
     },
     "inventoryGrabSound": {
-        "instanceID": 94164
+        "instanceID": 96550
     },
     "inventoryDropSound": {
-        "instanceID": 136916
+        "instanceID": 141280
     },
     "physImpactSoundDef": {
-        "instanceID": 49582
+        "instanceID": 50832
     },
     "condition": {
         "enabled": true,
@@ -77,13 +77,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1335544
+                "instanceID": 1341836
             },
             "amount": 1.0
         },
         {
             "itemDef": {
-                "instanceID": 206960
+                "instanceID": 213080
             },
             "amount": 50.0
         }

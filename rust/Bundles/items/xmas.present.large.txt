@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A Large Present, the best there is. Unwrap it now!"
     },
     "iconSprite": {
-        "instanceID": 118094
+        "instanceID": 120976
     },
     "category": 10,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -67,10 +67,12 @@ ItemDefinition
 ItemModUnwrap
 {
     "revealList": {
-        "instanceID": 62152
+        "instanceID": 63992
     },
     "successEffect": {
         "guid": "29286773a3f67a14889865e55e599365"
-    }
+    },
+    "minTries": 1,
+    "maxTries": 1
 }
 

@@ -1,0 +1,430 @@
+Found path: /steamcmd/rust/RustDedicated
+Mono path[0] = '/steamcmd/rust/RustDedicated_Data/Managed'
+Mono config path = '/steamcmd/rust/RustDedicated_Data/MonoBleedingEdge/etc'
+Preloaded 'libRakNet.so'
+Preloaded 'libRustNative.so'
+eac_server.so [x64] :: OnLoad()
+Preloaded 'libeac_server.so'
+Preloaded 'libeasyanticheat.so'
+Preloaded 'libsteam_api64.so'
+Preloaded 'steamclient.so'
+Unable to preload the following plugins:
+	libRenderer.so
+	libRustNative.so
+	libRenderer.so
+PlayerPrefs - Creating folder: /root/.config/unity3d/Facepunch Studios LTD
+PlayerPrefs - Creating folder: /root/.config/unity3d/Facepunch Studios LTD/Rust
+Initialize engine version: 2018.1.4f1 (1a308f4ebef1)
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  6.302 seconds
+WARNING: Shader Unsupported: 'Hidden/Internal-ScreenSpaceShadows' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-ScreenSpaceShadows' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/Rust/Standard Decal (Specular setup)' - Setting to default shader.
+UnloadTime: 0.680000 ms
+3D Noise requires higher shader capabilities (Shader Model 3.5 / OpenGL ES 3.0), which are not available on the current platform: graphicsShaderLevel (current/required) = 30 / 35
+Bootstrap Startup
+System
+	Name: ceaad219782a
+	OS:   Linux 4.9 Ubuntu 16.04 64bit
+CPU
+	Model:  Intel(R) Core(TM) i3-4340 CPU @ 3.60GHz
+	Cores:  2
+	Memory: 8194 MB
+GPU
+	Model:  Null Device
+	API:    NULL 1.0 [1.0]
+	Memory: 128 MB
+	SM:     30
+Process
+	Memory:   0 MB
+Mono
+	Collects: 14
+	Memory:   0 MB
+Manifest Metadata Loaded
+	12006 pooled strings
+	14 mesh colliders
+	5505 prefab properties
+	388 effect categories
+	601 entity names
+	86 skinnable names
+Command Line: "/steamcmd/rust/RustDedicated" "-batchmode" "-load" "+server.secure" "1" "+rcon.port" "28016" "+rcon.password" "******" "+rcon.web" "1" "-logfile" "/dev/stdout" "+server.identity" "radia" "+server.seed" "28016" "+server.hostname" "Radia" "+server.url" "https://www.bobpalmer.info" "+server.headerimage" "https://s3.us-east-2.amazonaws.com/bob-palmer-website/img/background-1.jpg" "+server.description" ""This is a Dockerized Rust Server, by derp..."" "+server.worldsize" "3500" "+server.maxplayers" "10" "+server.saveinterval" "600" 
+Command 'batchmode' not found
+Command 'load' not found
+server.secure: "True"
+rcon.port: "28016"
+Command 'rcon.password' not found
+rcon.web: "True"
+Command 'logfile' not found
+server.identity: "radia"
+server.seed: "28016"
+server.hostname: "Radia"
+server.url: "https://www.bobpalmer.info"
+server.headerimage: "https://s3.us-east-2.amazonaws.com/bob-palmer-website/img/background-1.jpg"
+server.description: "This"
+server.worldsize: "3500"
+server.maxplayers: "10"
+server.saveinterval: "600"
+[Manifest] URI IS "https://api.facepunch.com/api/public/manifest/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1"
+Command 'batchmode' not found
+Command 'load' not found
+server.secure: "True"
+rcon.port: "28016"
+Command 'rcon.password' not found
+rcon.web: "True"
+Command 'logfile' not found
+server.identity: "radia"
+server.seed: "28016"
+server.hostname: "Radia"
+server.url: "https://www.bobpalmer.info"
+server.headerimage: "https://s3.us-east-2.amazonaws.com/bob-palmer-website/img/background-1.jpg"
+server.description: "This"
+server.worldsize: "3500"
+server.maxplayers: "10"
+server.saveinterval: "600"
+Server Config Loaded
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 99 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 83 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 91 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 87 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 67 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 87 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 95 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 103 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 83 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 91 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 107 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 83 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 91 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 63 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 107 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 87 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 87 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 95 bytes)
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 116 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 116 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 116 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 132 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 124 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 148 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 40 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 384 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 124 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 116 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 120 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 116 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 372 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 156 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 392 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 132 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 332 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 368 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 324 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 360 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 396 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 156 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 124 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 352 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 452 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 116 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 124 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 384 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 132 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 388 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 68 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 456 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 132 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 384 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 124 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 124 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 116 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 68 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 116 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 320 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 364 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 124 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 80 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 88 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 72 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 428 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 340 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 116 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 116 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 2004 bytes)
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 144 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 2288 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 2360 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 1080 bytes)
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 144 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 3100 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 1012 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 3012 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 1976 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 2664 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 1788 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 1116 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 776 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 1556 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 1160 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 5164 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 1244 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 2068 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 2620 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 3748 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 1332 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 776 bytes)
+Mismatched serialization in the builtin class 'Sprite'. (Read 220 bytes but expected 1252 bytes)
+Mismatched serialization in the builtin class 'Transform'. (Read 68 bytes but expected 80 bytes)
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 48 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 48 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 48 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 40 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Unknown) on this Behaviour is missing!
+A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading. (Read 32 bytes but expected 48 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 35 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 39 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 35 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 35 bytes)
+Mismatched serialization in the builtin class 'Transform'. (Read 68 bytes but expected 80 bytes)
+Mismatched serialization in the builtin class 'GameObject'. (Read 15 bytes but expected 67 bytes)
+Receiving unhandled NULL exception

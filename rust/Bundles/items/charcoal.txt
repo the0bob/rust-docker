@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Byproduct from campfires and furnaces used for crafting gunpowder."
     },
     "iconSprite": {
-        "instanceID": 168788
+        "instanceID": 174120
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 43790
+        "instanceID": 44840
     },
     "inventoryGrabSound": {
-        "instanceID": 43790
+        "instanceID": 44840
     },
     "inventoryDropSound": {
-        "instanceID": 61604
+        "instanceID": 63430
     },
     "physImpactSoundDef": {
-        "instanceID": 65360
+        "instanceID": 67248
     },
     "condition": {
         "enabled": false,

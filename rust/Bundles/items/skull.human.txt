@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A human skull."
     },
     "iconSprite": {
-        "instanceID": 59394
+        "instanceID": 61170
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -72,7 +72,7 @@ ItemModSwap
     "becomeItem": [
         {
             "itemDef": {
-                "instanceID": 206896
+                "instanceID": 213016
             },
             "amount": 20.0
         }
@@ -86,7 +86,7 @@ ItemModMenuOption
 {
     "commandName": "crush",
     "actionTarget": {
-        "instanceID": 2082026
+        "instanceID": 2156840
     },
     "option": {
         "name": {
@@ -98,7 +98,7 @@ ItemModMenuOption
             "english": "Crush into bone fragments"
         },
         "icon": {
-            "instanceID": 141360
+            "instanceID": 145848
         },
         "order": 0
     },

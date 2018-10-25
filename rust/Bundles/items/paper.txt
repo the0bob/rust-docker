@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Paper, a ingredient for Building plan and Note."
     },
     "iconSprite": {
-        "instanceID": 154672
+        "instanceID": 159668
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 0,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 181326
+        "instanceID": 187288
     },
     "inventoryGrabSound": {
-        "instanceID": 181326
+        "instanceID": 187288
     },
     "inventoryDropSound": {
-        "instanceID": 111336
+        "instanceID": 114100
     },
     "physImpactSoundDef": {
-        "instanceID": 144302
+        "instanceID": 148834
     },
     "condition": {
         "enabled": false,
@@ -69,7 +69,7 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207078
+                "instanceID": 213198
             },
             "amount": 5.0
         }

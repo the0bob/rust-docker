@@ -13,7 +13,7 @@ ItemDefinition
         "english": "Made from Sulfur and Charcoal, a key ingredient of anything that goes bang!"
     },
     "iconSprite": {
-        "instanceID": 155202
+        "instanceID": 160200
     },
     "category": 3,
     "selectionPanel": 0,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 4,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryGrabSound": {
-        "instanceID": 165714
+        "instanceID": 170992
     },
     "inventoryDropSound": {
-        "instanceID": 100096
+        "instanceID": 102624
     },
     "physImpactSoundDef": {
-        "instanceID": 29164
+        "instanceID": 29748
     },
     "condition": {
         "enabled": false,
@@ -69,13 +69,13 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 207104
+                "instanceID": 213224
             },
             "amount": 30.0
         },
         {
             "itemDef": {
-                "instanceID": 207048
+                "instanceID": 213168
             },
             "amount": 20.0
         }

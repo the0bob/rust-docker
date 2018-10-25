@@ -13,7 +13,7 @@ ItemDefinition
         "english": "A High Powered six-shooter."
     },
     "iconSprite": {
-        "instanceID": 40140
+        "instanceID": 41154
     },
     "category": 0,
     "selectionPanel": 2,
@@ -26,16 +26,16 @@ ItemDefinition
     "rarity": 3,
     "spawnAsBlueprint": false,
     "inventorySelectSound": {
-        "instanceID": 161380
+        "instanceID": 166502
     },
     "inventoryGrabSound": {
-        "instanceID": 161380
+        "instanceID": 166502
     },
     "inventoryDropSound": {
-        "instanceID": 175542
+        "instanceID": 181346
     },
     "physImpactSoundDef": {
-        "instanceID": 168100
+        "instanceID": 173414
     },
     "condition": {
         "enabled": true,
@@ -77,19 +77,19 @@ ItemBlueprint
     "ingredients": [
         {
             "itemDef": {
-                "instanceID": 1335544
+                "instanceID": 1341836
             },
             "amount": 3.0
         },
         {
             "itemDef": {
-                "instanceID": 1335542
+                "instanceID": 1341834
             },
             "amount": 1.0
         },
         {
             "itemDef": {
-                "instanceID": 1333550
+                "instanceID": 1339836
             },
             "amount": 10.0
         }
